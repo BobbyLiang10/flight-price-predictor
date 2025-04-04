@@ -1,0 +1,47 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+JetBlue,CDG,JFK,8h 16m,direct,"C$ 1,241",2025-04-07,4,2025-04-03
+Azores Airlines,CDG,JFK,11h 30m,1 stop,C$ 870,2025-04-07,4,2025-04-03
+Finnair • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,705",2025-04-07,4,2025-04-03
+Iberia • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,720",2025-04-07,4,2025-04-03
+Aer Lingus,CDG,JFK,12h 00m,1 stop,"C$ 1,238",2025-04-07,4,2025-04-03
+Icelandair,CDG,JFK,11h 00m,1 stop,"C$ 1,442",2025-04-07,4,2025-04-03
+"British Airways, Finnair • Operated by American Airlines",CDG,JFK,10h 50m,1 stop,"C$ 1,701",2025-04-07,4,2025-04-03
+British Airways,CDG,JFK,10h 50m,1 stop,"C$ 1,717",2025-04-07,4,2025-04-03
+"British Airways, Finnair • Operated by American Airlines",CDG,JFK,10h 45m,1 stop,"C$ 1,701",2025-04-07,4,2025-04-03
+British Airways • Operated by American Airlines,CDG,JFK,10h 50m,1 stop,"C$ 1,717",2025-04-07,4,2025-04-03
+Aer Lingus,CDG,JFK,14h 00m,1 stop,"C$ 1,238",2025-04-07,4,2025-04-03
+"British Airways, Finnair • Operated by American Airlines",CDG,JFK,11h 05m,1 stop,"C$ 1,701",2025-04-07,4,2025-04-03
+British Airways • Operated by American Airlines,CDG,JFK,10h 45m,1 stop,"C$ 1,717",2025-04-07,4,2025-04-03
+"British Airways, American Airlines",CDG,JFK,10h 50m,1 stop,"C$ 1,722",2025-04-07,4,2025-04-03
+British Airways,CDG,JFK,10h 50m,1 stop,"C$ 1,717",2025-04-07,4,2025-04-03
+Icelandair,CDG,JFK,11h 00m,1 stop,C$ 693,2025-04-08,5,2025-04-03
+Multiple Airlines • Operated by Malta Air,CDG,JFK,36h 20m,2 stops,C$ 644,2025-04-08,5,2025-04-03
+Icelandair,CDG,JFK,11h 10m,1 stop,C$ 693,2025-04-08,5,2025-04-03
+Azores Airlines,CDG,JFK,11h 10m,1 stop,C$ 759,2025-04-08,5,2025-04-03
+JetBlue,CDG,JFK,8h 16m,direct,"C$ 1,350",2025-04-08,5,2025-04-03
+Aer Lingus,CDG,JFK,12h 00m,1 stop,C$ 880,2025-04-08,5,2025-04-03
+Scandinavian Airlines,CDG,JFK,11h 45m,1 stop,"C$ 1,025",2025-04-08,5,2025-04-03
+Finnair • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,705",2025-04-08,5,2025-04-03
+Iberia • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,720",2025-04-08,5,2025-04-03
+WestJet Encore • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,825",2025-04-08,5,2025-04-03
+Aer Lingus,CDG,JFK,14h 00m,1 stop,C$ 880,2025-04-08,5,2025-04-03
+Aer Lingus,CDG,JFK,15h 10m,1 stop,C$ 880,2025-04-08,5,2025-04-03
+"Iberia • Operated by Iberia For Level Spain, Vueling Airlines",CDG,JFK,14h 35m,1 stop,"C$ 1,000",2025-04-08,5,2025-04-03
+Vueling • Operated by Iberia for Level,CDG,JFK,14h 35m,1 stop,C$ 903,2025-04-08,5,2025-04-03
+Turkish Airlines,CDG,JFK,16h 35m,1 stop,C$ 816,2025-04-08,5,2025-04-03
+"British Airways, Finnair • Operated by British Airways",CDG,JFK,10h 30m,1 stop,"C$ 1,701",2025-04-08,5,2025-04-03
+Norse Atlantic Airways,CDG,JFK,8h 00m,direct,C$ 522,2025-04-09,6,2025-04-03
+A.P.G. • Operated by Norse Atlantic Airways,CDG,JFK,8h 00m,direct,C$ 772,2025-04-09,6,2025-04-03
+JetBlue,CDG,JFK,8h 16m,direct,"C$ 1,350",2025-04-09,6,2025-04-03
+Icelandair,CDG,JFK,11h 00m,1 stop,C$ 693,2025-04-09,6,2025-04-03
+Icelandair,CDG,JFK,11h 10m,1 stop,C$ 693,2025-04-09,6,2025-04-03
+Finnair • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,705",2025-04-09,6,2025-04-03
+Iberia • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,720",2025-04-09,6,2025-04-03
+Scandinavian Airlines • Operated by SAS Connect,CDG,JFK,11h 45m,1 stop,C$ 948,2025-04-09,6,2025-04-03
+WestJet Encore • Operated by American Airlines,CDG,JFK,8h 15m,direct,"C$ 1,825",2025-04-09,6,2025-04-03
+Aer Lingus,CDG,JFK,12h 00m,1 stop,"C$ 1,172",2025-04-09,6,2025-04-03
+"Iberia • Operated by Iberia For Level Spain, Vueling Airlines",CDG,JFK,13h 25m,1 stop,C$ 995,2025-04-09,6,2025-04-03
+Vueling • Operated by Iberia for Level,CDG,JFK,13h 25m,1 stop,C$ 954,2025-04-09,6,2025-04-03
+"British Airways, Finnair • Operated by British Airways",CDG,JFK,10h 35m,1 stop,"C$ 1,701",2025-04-09,6,2025-04-03
+British Airways,CDG,JFK,10h 35m,1 stop,"C$ 1,715",2025-04-09,6,2025-04-03
+"PLAY, Icelandair",CDG,JFK,12h 40m,1 stop,C$ 990,2025-04-09,6,2025-04-03

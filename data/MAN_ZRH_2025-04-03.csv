@@ -1,0 +1,49 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+easyJet,MAN,ZRH,1h 55m,direct,C$ 334,2025-04-07,4,2025-04-03
+"Ryanair, easyJet",MAN,ZRH,12h 30m,1 stop,C$ 232,2025-04-07,4,2025-04-03
+British Airways,MAN,ZRH,4h 30m,1 stop,C$ 718,2025-04-07,4,2025-04-03
+KLM,MAN,ZRH,3h 55m,1 stop,"C$ 1,948",2025-04-07,4,2025-04-03
+KLM • Operated by KLM Cityhopper,MAN,ZRH,3h 50m,1 stop,"C$ 2,658",2025-04-07,4,2025-04-03
+"Lufthansa • Operated by Lufthansa City Airlines, SWISS",MAN,ZRH,4h 25m,1 stop,"C$ 1,606",2025-04-07,4,2025-04-03
+KLM,MAN,ZRH,4h 10m,1 stop,"C$ 1,948",2025-04-07,4,2025-04-03
+KLM,MAN,ZRH,4h 35m,1 stop,"C$ 2,658",2025-04-07,4,2025-04-03
+Eurowings,MAN,ZRH,6h 00m,1 stop,C$ 397,2025-04-07,4,2025-04-03
+"Ryanair, SWISS",MAN,ZRH,5h 50m,1 stop,C$ 716,2025-04-07,4,2025-04-03
+"easyJet, Chair",MAN,ZRH,5h 55m,1 stop,C$ 593,2025-04-07,4,2025-04-03
+Eurowings,MAN,ZRH,6h 05m,1 stop,C$ 397,2025-04-07,4,2025-04-03
+KLM • Operated by KLM Cityhopper,MAN,ZRH,6h 30m,1 stop,"C$ 1,948",2025-04-07,4,2025-04-03
+Air France,MAN,ZRH,7h 15m,1 stop,C$ 667,2025-04-07,4,2025-04-03
+"Austrian Airlines • Operated by airBaltic, Lufthansa",MAN,ZRH,7h 20m,2 stops,"C$ 1,773",2025-04-07,4,2025-04-03
+KLM • Operated by KLM Cityhopper,MAN,ZRH,6h 50m,1 stop,"C$ 2,658",2025-04-07,4,2025-04-03
+easyJet,MAN,ZRH,1h 55m,direct,C$ 181,2025-04-08,5,2025-04-03
+easyJet,MAN,ZRH,12h 20m,1 stop,C$ 167,2025-04-08,5,2025-04-03
+SWISS • Operated by Air Baltic,MAN,ZRH,2h 00m,direct,C$ 465,2025-04-08,5,2025-04-03
+SWISS • Operated by Air Baltic,MAN,ZRH,2h 00m,direct,C$ 472,2025-04-08,5,2025-04-03
+Lufthansa,MAN,ZRH,3h 55m,1 stop,C$ 405,2025-04-08,5,2025-04-03
+Brussels Airlines • Operated by Swiss,MAN,ZRH,4h 05m,1 stop,C$ 399,2025-04-08,5,2025-04-03
+Lufthansa,MAN,ZRH,3h 45m,1 stop,C$ 460,2025-04-08,5,2025-04-03
+Brussels Airlines • Operated by Swiss,MAN,ZRH,3h 55m,1 stop,C$ 501,2025-04-08,5,2025-04-03
+KLM,MAN,ZRH,4h 35m,1 stop,C$ 443,2025-04-08,5,2025-04-03
+"KLM • Operated by KLM Cityhopper, Eastern Airways",MAN,ZRH,3h 55m,1 stop,C$ 593,2025-04-08,5,2025-04-03
+KLM,MAN,ZRH,3h 55m,1 stop,C$ 593,2025-04-08,5,2025-04-03
+Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines,MAN,ZRH,5h 35m,1 stop,C$ 405,2025-04-08,5,2025-04-03
+British Airways,MAN,ZRH,4h 35m,1 stop,C$ 529,2025-04-08,5,2025-04-03
+Eurowings,MAN,ZRH,6h 00m,1 stop,C$ 397,2025-04-08,5,2025-04-03
+British Airways,MAN,ZRH,5h 25m,1 stop,C$ 454,2025-04-08,5,2025-04-03
+British Airways,MAN,ZRH,4h 50m,1 stop,C$ 543,2025-04-08,5,2025-04-03
+SWISS • Operated by Air Baltic,MAN,ZRH,2h 00m,direct,C$ 319,2025-04-09,6,2025-04-03
+"Ryanair, easyJet",MAN,ZRH,13h 15m,1 stop,C$ 168,2025-04-09,6,2025-04-03
+SWISS,MAN,ZRH,2h 00m,direct,C$ 319,2025-04-09,6,2025-04-03
+KLM • Operated by KLM Cityhopper,MAN,ZRH,3h 50m,1 stop,C$ 389,2025-04-09,6,2025-04-03
+Brussels Airlines • Operated by Swiss,MAN,ZRH,3h 55m,1 stop,C$ 399,2025-04-09,6,2025-04-03
+"KLM • Operated by KLM Cityhopper, Eastern Airways",MAN,ZRH,3h 55m,1 stop,C$ 389,2025-04-09,6,2025-04-03
+KLM,MAN,ZRH,3h 55m,1 stop,C$ 389,2025-04-09,6,2025-04-03
+KLM,MAN,ZRH,4h 10m,1 stop,C$ 389,2025-04-09,6,2025-04-03
+Brussels Airlines • Operated by Swiss,MAN,ZRH,4h 05m,1 stop,C$ 399,2025-04-09,6,2025-04-03
+Lufthansa • Operated by CityJet,MAN,ZRH,3h 55m,1 stop,C$ 455,2025-04-09,6,2025-04-03
+British Airways,MAN,ZRH,3h 55m,1 stop,C$ 519,2025-04-09,6,2025-04-03
+Vueling,MAN,ZRH,6h 10m,1 stop,C$ 355,2025-04-09,6,2025-04-03
+KLM,MAN,ZRH,4h 35m,1 stop,C$ 593,2025-04-09,6,2025-04-03
+Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines,MAN,ZRH,5h 35m,1 stop,C$ 405,2025-04-09,6,2025-04-03
+Eurowings • Operated by Eurowings,MAN,ZRH,6h 00m,1 stop,C$ 397,2025-04-09,6,2025-04-03
+Lufthansa,MAN,ZRH,5h 00m,1 stop,C$ 516,2025-04-09,6,2025-04-03

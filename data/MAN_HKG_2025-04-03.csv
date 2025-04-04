@@ -1,0 +1,50 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,625",2025-04-07,4,2025-04-03
+Multiple Airlines • Operated by Buzz,MAN,HKG,19h 50m,2 stops,"C$ 1,042",2025-04-07,4,2025-04-03
+Multiple Airlines,MAN,HKG,44h 55m,3 stops,C$ 777,2025-04-07,4,2025-04-03
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,606",2025-04-07,4,2025-04-03
+Cathay Pacific,MAN,HKG,12h 35m,direct,"C$ 3,127",2025-04-07,4,2025-04-03
+British Airways • Operated by Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,644",2025-04-07,4,2025-04-03
+"Hainan Airlines, Hong Kong Airlines",MAN,HKG,17h 50m,1 stop,"C$ 1,658",2025-04-07,4,2025-04-03
+Multiple Airlines • Operated by Buzz,MAN,HKG,20h 30m,2 stops,"C$ 1,085",2025-04-07,4,2025-04-03
+"Ryanair, Cathay Pacific",MAN,HKG,16h 10m,1 stop,"C$ 1,675",2025-04-07,4,2025-04-03
+"British Airways, Qatar Airways • Operated by Qatar Airways",MAN,HKG,17h 15m,1 stop,"C$ 1,826",2025-04-07,4,2025-04-03
+"Ryanair, Emirates • Operated by flydubai",MAN,HKG,19h 30m,2 stops,"C$ 1,263",2025-04-07,4,2025-04-03
+"Hainan Airlines, Cathay Pacific",MAN,HKG,15h 50m,1 stop,"C$ 1,844",2025-04-07,4,2025-04-03
+Air France,MAN,HKG,20h 15m,1 stop,"C$ 1,772",2025-04-07,4,2025-04-03
+Emirates,MAN,HKG,17h 00m,1 stop,"C$ 2,524",2025-04-07,4,2025-04-03
+"Juneyao Airlines, Cathay Pacific",MAN,HKG,16h 15m,1 stop,"C$ 2,456",2025-04-07,4,2025-04-03
+"Ryanair, Air China • Operated by Cathay Pacific",MAN,HKG,20h 50m,2 stops,"C$ 1,461",2025-04-07,4,2025-04-03
+Multiple Airlines,MAN,HKG,19h 40m,2 stops,"C$ 1,514",2025-04-07,4,2025-04-03
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 2,018",2025-04-08,5,2025-04-03
+SWISS • Operated by airBaltic,MAN,HKG,15h 00m,1 stop,"C$ 1,353",2025-04-08,5,2025-04-03
+"easyJet, China Southern",MAN,HKG,25h 25m,2 stops,C$ 715,2025-04-08,5,2025-04-03
+Lufthansa • Operated by Cathay Pacific,MAN,HKG,15h 20m,1 stop,"C$ 1,442",2025-04-08,5,2025-04-03
+Finnair,MAN,HKG,16h 50m,1 stop,"C$ 1,424",2025-04-08,5,2025-04-03
+KLM,MAN,HKG,14h 55m,1 stop,"C$ 1,607",2025-04-08,5,2025-04-03
+"Lufthansa, Cathay Pacific",MAN,HKG,15h 20m,1 stop,"C$ 1,692",2025-04-08,5,2025-04-03
+Finnair • Operated by Cathay Pacific,MAN,HKG,23h 20m,2 stops,"C$ 1,063",2025-04-08,5,2025-04-03
+Lufthansa • Operated by Cathay Pacific,MAN,HKG,18h 35m,1 stop,"C$ 1,442",2025-04-08,5,2025-04-03
+"Hainan Airlines, Hong Kong Airlines",MAN,HKG,17h 50m,1 stop,"C$ 1,687",2025-04-08,5,2025-04-03
+KLM • Operated by Eastern Airways,MAN,HKG,18h 40m,1 stop,"C$ 1,607",2025-04-08,5,2025-04-03
+"easyJet, China Southern",MAN,HKG,24h 05m,2 stops,C$ 730,2025-04-08,5,2025-04-03
+British Airways • Operated by Qatar Airways,MAN,HKG,20h 10m,2 stops,"C$ 1,632",2025-04-08,5,2025-04-03
+"Ryanair, Thai Airways • Operated by Malta Air",MAN,HKG,19h 40m,2 stops,"C$ 1,162",2025-04-08,5,2025-04-03
+"Hainan Airlines, Cathay Pacific",MAN,HKG,15h 50m,1 stop,"C$ 1,845",2025-04-08,5,2025-04-03
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,997",2025-04-08,5,2025-04-03
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,712",2025-04-09,6,2025-04-03
+"easyJet, China Southern",MAN,HKG,23h 20m,2 stops,C$ 730,2025-04-09,6,2025-04-03
+Cathay Pacific,MAN,HKG,12h 35m,direct,"C$ 2,030",2025-04-09,6,2025-04-03
+"Ryanair, Thai Airways",MAN,HKG,20h 00m,2 stops,"C$ 1,033",2025-04-09,6,2025-04-03
+"easyJet, China Southern",MAN,HKG,25h 25m,2 stops,C$ 736,2025-04-09,6,2025-04-03
+"Hainan Airlines, Hong Kong Airlines",MAN,HKG,17h 50m,1 stop,"C$ 1,513",2025-04-09,6,2025-04-03
+Air France,MAN,HKG,16h 45m,1 stop,"C$ 1,607",2025-04-09,6,2025-04-03
+SWISS • Operated by airBaltic,MAN,HKG,15h 00m,1 stop,"C$ 1,746",2025-04-09,6,2025-04-03
+"easyJet, China Southern",MAN,HKG,28h 00m,2 stops,C$ 734,2025-04-09,6,2025-04-03
+Finnair • Operated by Nordic Reg For Finnair,MAN,HKG,24h 35m,1 stop,"C$ 1,313",2025-04-09,6,2025-04-03
+Juneyao Airlines,MAN,HKG,25h 45m,1 stop,"C$ 1,275",2025-04-09,6,2025-04-03
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,694",2025-04-09,6,2025-04-03
+"Ryanair, Thai Airways",MAN,HKG,22h 35m,2 stops,"C$ 1,033",2025-04-09,6,2025-04-03
+"SWISS, Cathay Pacific",MAN,HKG,15h 15m,1 stop,"C$ 1,904",2025-04-09,6,2025-04-03
+Turkish Airlines,MAN,HKG,16h 40m,1 stop,"C$ 1,890",2025-04-09,6,2025-04-03
+"easyJet, Turkish Airlines",MAN,HKG,19h 35m,2 stops,"C$ 1,236",2025-04-09,6,2025-04-03

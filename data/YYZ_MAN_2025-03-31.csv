@@ -1,0 +1,51 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+TAP AIR PORTUGAL,YYZ,MAN,11h 30m,1 stop,C$ 499,2025-04-01,1,2025-03-31
+TAP AIR PORTUGAL,YYZ,MAN,11h 30m,1 stop,C$ 481,2025-04-01,1,2025-03-31
+Multiple Airlines,YYZ,MAN,57h 10m,3 stops,C$ 428,2025-04-01,1,2025-03-31
+Icelandair,YYZ,MAN,9h 50m,1 stop,C$ 650,2025-04-01,1,2025-03-31
+Aer Lingus,YYZ,MAN,9h 10m,1 stop,C$ 735,2025-04-01,1,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,YYZ,MAN,10h 15m,1 stop,C$ 822,2025-04-01,1,2025-03-31
+British Airways • Operated by Aer Lingus,YYZ,MAN,9h 10m,1 stop,"C$ 1,129",2025-04-01,1,2025-03-31
+"American Airlines, Aer Lingus • Operated by Aer Lingus",YYZ,MAN,9h 10m,1 stop,"C$ 1,134",2025-04-01,1,2025-03-31
+American Airlines • Operated by British Airways,YYZ,MAN,10h 40m,1 stop,"C$ 1,043",2025-04-01,1,2025-03-31
+Aer Lingus,YYZ,MAN,15h 25m,1 stop,C$ 822,2025-04-01,1,2025-03-31
+British Airways,YYZ,MAN,10h 40m,1 stop,"C$ 1,038",2025-04-01,1,2025-03-31
+"American Airlines, British Airways • Operated by British Airways",YYZ,MAN,10h 40m,1 stop,"C$ 1,044",2025-04-01,1,2025-03-31
+KLM • Operated by KLM Cityhopper,YYZ,MAN,10h 35m,1 stop,"C$ 1,074",2025-04-01,1,2025-03-31
+Multiple Airlines,YYZ,MAN,13h 45m,2 stops,C$ 699,2025-04-01,1,2025-03-31
+"Virgin Atlantic • Operated by KLM Cityhopper, KLM",YYZ,MAN,10h 35m,1 stop,"C$ 1,074",2025-04-01,1,2025-03-31
+Lufthansa,YYZ,MAN,11h 05m,1 stop,"C$ 1,078",2025-04-01,1,2025-03-31
+"Air Canada, Lufthansa",YYZ,MAN,11h 05m,1 stop,"C$ 1,078",2025-04-01,1,2025-03-31
+"Air Canada, Lufthansa",YYZ,MAN,11h 05m,1 stop,"C$ 1,078",2025-04-02,2,2025-03-31
+"WestJet, Ryanair",YYZ,MAN,9h 30m,1 stop,C$ 542,2025-04-02,2,2025-03-31
+Multiple Airlines,YYZ,MAN,40h 55m,3 stops,C$ 454,2025-04-02,2,2025-03-31
+"WestJet, Ryanair",YYZ,MAN,10h 20m,1 stop,C$ 544,2025-04-02,2,2025-03-31
+"TAP AIR PORTUGAL, easyJet",YYZ,MAN,11h 15m,1 stop,C$ 569,2025-04-02,2,2025-03-31
+Aer Lingus,YYZ,MAN,9h 10m,1 stop,C$ 724,2025-04-02,2,2025-03-31
+Icelandair,YYZ,MAN,10h 05m,1 stop,C$ 650,2025-04-02,2,2025-03-31
+"WestJet, Aer Lingus",YYZ,MAN,10h 50m,1 stop,C$ 606,2025-04-02,2,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,YYZ,MAN,10h 25m,1 stop,C$ 758,2025-04-02,2,2025-03-31
+"Air Transat, easyJet",YYZ,MAN,11h 20m,1 stop,C$ 716,2025-04-02,2,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,YYZ,MAN,13h 05m,1 stop,C$ 706,2025-04-02,2,2025-03-31
+"British Airways, Aer Lingus",YYZ,MAN,9h 10m,1 stop,"C$ 1,045",2025-04-02,2,2025-03-31
+"Porter Airlines, easyJet • Operated by Air Transat",YYZ,MAN,11h 20m,1 stop,C$ 798,2025-04-02,2,2025-03-31
+Royal Air Maroc,YYZ,MAN,13h 45m,1 stop,C$ 860,2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL • Operated by Portugalia,YYZ,MAN,13h 05m,1 stop,C$ 891,2025-04-02,2,2025-03-31
+"WestJet, Aer Lingus • Operated by Emerald Airlines",YYZ,MAN,13h 50m,1 stop,C$ 655,2025-04-02,2,2025-03-31
+"Air Transat, Jet2",YYZ,MAN,11h 50m,1 stop,C$ 786,2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,MAN,11h 30m,1 stop,C$ 492,2025-04-03,3,2025-03-31
+TAP AIR PORTUGAL,YYZ,MAN,11h 30m,1 stop,C$ 477,2025-04-03,3,2025-03-31
+Icelandair,YYZ,MAN,9h 50m,1 stop,C$ 687,2025-04-03,3,2025-03-31
+Aer Lingus,YYZ,MAN,9h 10m,1 stop,C$ 758,2025-04-03,3,2025-03-31
+"TAP AIR PORTUGAL, Ryanair",YYZ,MAN,15h 20m,1 stop,C$ 636,2025-04-03,3,2025-03-31
+"British Airways, Aer Lingus • Operated by Aer Lingus",YYZ,MAN,9h 10m,1 stop,"C$ 1,045",2025-04-03,3,2025-03-31
+"Air Transat, Ryanair",YYZ,MAN,11h 20m,1 stop,C$ 910,2025-04-03,3,2025-03-31
+Aer Lingus,YYZ,MAN,15h 25m,1 stop,C$ 758,2025-04-03,3,2025-03-31
+"TAP AIR PORTUGAL, easyJet",YYZ,MAN,16h 50m,1 stop,C$ 641,2025-04-03,3,2025-03-31
+British Airways • Operated by Aer Lingus,YYZ,MAN,9h 10m,1 stop,"C$ 1,188",2025-04-03,3,2025-03-31
+SWISS • Operated by airBaltic,YYZ,MAN,10h 30m,1 stop,"C$ 1,140",2025-04-03,3,2025-03-31
+"Aer Lingus, Ryanair",YYZ,MAN,8h 50m,1 stop,"C$ 1,093",2025-04-03,3,2025-03-31
+British Airways,YYZ,MAN,10h 40m,1 stop,"C$ 1,115",2025-04-03,3,2025-03-31
+"American Airlines, Aer Lingus • Operated by Aer Lingus",YYZ,MAN,9h 10m,1 stop,"C$ 1,211",2025-04-03,3,2025-03-31
+"Air Canada, SWISS • Operated by airBaltic, SWISS",YYZ,MAN,10h 30m,1 stop,"C$ 1,150",2025-04-03,3,2025-03-31
+"TAP AIR PORTUGAL, Aer Lingus • Operated by Portugalia",YYZ,MAN,15h 10m,2 stops,C$ 655,2025-04-03,3,2025-03-31

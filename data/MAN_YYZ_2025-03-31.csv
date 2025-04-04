@@ -1,0 +1,48 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Aer Lingus • Operated by Emerald Airlines,MAN,YYZ,11h 15m,1 stop,C$ 907,2025-04-01,1,2025-03-31
+Multiple Airlines,MAN,YYZ,30h 30m,3 stops,C$ 667,2025-04-01,1,2025-03-31
+Aer Lingus,MAN,YYZ,12h 30m,1 stop,"C$ 1,045",2025-04-01,1,2025-03-31
+British Airways,MAN,YYZ,11h 00m,1 stop,"C$ 1,232",2025-04-01,1,2025-03-31
+"British Airways • Operated by Emerald Airlines For Aer Lingus, Aer Lingus",MAN,YYZ,11h 15m,1 stop,"C$ 1,340",2025-04-01,1,2025-03-31
+British Airways,MAN,YYZ,12h 45m,1 stop,"C$ 1,232",2025-04-01,1,2025-03-31
+Icelandair,MAN,YYZ,11h 05m,1 stop,"C$ 1,430",2025-04-01,1,2025-03-31
+Lufthansa,MAN,YYZ,12h 10m,1 stop,"C$ 1,339",2025-04-01,1,2025-03-31
+"British Airways • Operated by Republic Airways AS American Eagle For American Airlines, Aer Lingus (U.K.) Limited For Aer Lingus",MAN,YYZ,12h 04m,1 stop,"C$ 1,403",2025-04-01,1,2025-03-31
+"Aer Lingus, Air Canada",MAN,YYZ,13h 52m,2 stops,"C$ 1,145",2025-04-01,1,2025-03-31
+"Lufthansa • Operated by Lufthansa City Airlines, Air Canada",MAN,YYZ,12h 50m,1 stop,"C$ 1,355",2025-04-01,1,2025-03-31
+Lufthansa • Operated by Air Canada,MAN,YYZ,13h 10m,1 stop,"C$ 1,339",2025-04-01,1,2025-03-31
+"SWISS • Operated by airBaltic, Air Canada",MAN,YYZ,12h 30m,1 stop,"C$ 1,436",2025-04-01,1,2025-03-31
+British Airways • Operated by Aer Lingus,MAN,YYZ,12h 30m,1 stop,"C$ 1,495",2025-04-01,1,2025-03-31
+Lufthansa • Operated by Air Canada,MAN,YYZ,11h 45m,1 stop,"C$ 1,450",2025-04-01,1,2025-03-31
+Lufthansa • Operated by Air Canada,MAN,YYZ,14h 05m,2 stops,"C$ 1,371",2025-04-01,1,2025-03-31
+Aer Lingus,MAN,YYZ,12h 30m,1 stop,"C$ 1,045",2025-04-02,2,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,MAN,YYZ,23h 45m,1 stop,C$ 800,2025-04-02,2,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,MAN,YYZ,11h 15m,1 stop,"C$ 1,283",2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,MAN,YYZ,15h 00m,1 stop,"C$ 1,137",2025-04-02,2,2025-03-31
+Lufthansa,MAN,YYZ,12h 10m,1 stop,"C$ 1,339",2025-04-02,2,2025-03-31
+British Airways,MAN,YYZ,11h 10m,1 stop,"C$ 1,398",2025-04-02,2,2025-03-31
+"Lufthansa • Operated by Lufthansa City Airlines, Air Canada",MAN,YYZ,12h 50m,1 stop,"C$ 1,355",2025-04-02,2,2025-03-31
+"British Airways • Operated by Republic Airways AS American Eagle For American Airlines, Aer Lingus (U.K.) Limited For Aer Lingus",MAN,YYZ,12h 04m,1 stop,"C$ 1,487",2025-04-02,2,2025-03-31
+British Airways • Operated by Aer Lingus,MAN,YYZ,12h 30m,1 stop,"C$ 1,495",2025-04-02,2,2025-03-31
+Brussels Airlines • Operated by Air Canada,MAN,YYZ,10h 35m,1 stop,"C$ 1,859",2025-04-02,2,2025-03-31
+"British Airways • Operated by Republic Airways AS American Eagle For American Airlines, American Airlines",MAN,YYZ,15h 54m,2 stops,"C$ 1,188",2025-04-02,2,2025-03-31
+Lufthansa • Operated by Air Canada,MAN,YYZ,11h 35m,1 stop,"C$ 2,400",2025-04-02,2,2025-03-31
+"British Airways, Air Canada",MAN,YYZ,10h 35m,1 stop,"C$ 2,959",2025-04-02,2,2025-03-31
+Air Canada • Operated by Brussels Airlines,MAN,YYZ,10h 35m,1 stop,"C$ 2,941",2025-04-02,2,2025-03-31
+British Airways,MAN,YYZ,14h 15m,1 stop,"C$ 1,398",2025-04-02,2,2025-03-31
+"Ryanair, Aer Lingus",MAN,YYZ,11h 50m,1 stop,"C$ 1,035",2025-04-03,3,2025-03-31
+"Ryanair, Azores Airlines • Operated by SATA Air Acores",MAN,YYZ,38h 15m,2 stops,C$ 564,2025-04-03,3,2025-03-31
+Aer Lingus,MAN,YYZ,12h 30m,1 stop,"C$ 1,101",2025-04-03,3,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,MAN,YYZ,11h 15m,1 stop,"C$ 1,194",2025-04-03,3,2025-03-31
+"Lufthansa, WestJet • Operated by Condor",MAN,YYZ,13h 45m,1 stop,"C$ 1,092",2025-04-03,3,2025-03-31
+"Lufthansa, Condor",MAN,YYZ,13h 45m,1 stop,"C$ 1,240",2025-04-03,3,2025-03-31
+"easyJet, Icelandair",MAN,YYZ,17h 45m,1 stop,C$ 982,2025-04-03,3,2025-03-31
+"Lufthansa, WestJet • Operated by Condor",MAN,YYZ,16h 50m,1 stop,"C$ 1,109",2025-04-03,3,2025-03-31
+"British Airways • Operated by Republic Airways AS American Eagle For American Airlines, Aer Lingus (U.K.) Limited For Aer Lingus",MAN,YYZ,12h 04m,1 stop,"C$ 1,336",2025-04-03,3,2025-03-31
+Lufthansa,MAN,YYZ,12h 10m,1 stop,"C$ 1,395",2025-04-03,3,2025-03-31
+"Jet2, Azores Airlines",MAN,YYZ,17h 15m,2 stops,C$ 950,2025-04-03,3,2025-03-31
+"easyJet, Azores Airlines",MAN,YYZ,17h 45m,2 stops,C$ 944,2025-04-03,3,2025-03-31
+Icelandair,MAN,YYZ,11h 05m,1 stop,"C$ 1,528",2025-04-03,3,2025-03-31
+"Aer Lingus, British Airways • Operated by Republic Airways AS American Eagle For American Airlines, Aer Lingus (U.K.) Limited",MAN,YYZ,12h 04m,1 stop,"C$ 1,355",2025-04-03,3,2025-03-31
+Lufthansa • Operated by Air Canada,MAN,YYZ,12h 50m,1 stop,"C$ 1,411",2025-04-03,3,2025-03-31
+"Lufthansa, Condor",MAN,YYZ,16h 50m,1 stop,"C$ 1,149",2025-04-03,3,2025-03-31

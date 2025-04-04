@@ -1,0 +1,48 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+easyJet,MAN,CDG,1h 30m,direct,C$ 272,2025-04-01,1,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 197,2025-04-01,1,2025-03-31
+easyJet,MAN,CDG,1h 35m,direct,C$ 228,2025-04-01,1,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 288,2025-04-01,1,2025-03-31
+easyJet,MAN,CDG,1h 35m,direct,C$ 396,2025-04-01,1,2025-03-31
+Air France • Operated by HOP!,MAN,CDG,1h 30m,direct,C$ 487,2025-04-01,1,2025-03-31
+Air France,MAN,CDG,1h 35m,direct,C$ 487,2025-04-01,1,2025-03-31
+Air France,MAN,CDG,1h 40m,direct,C$ 498,2025-04-01,1,2025-03-31
+easyJet,MAN,CDG,4h 20m,1 stop,C$ 287,2025-04-01,1,2025-03-31
+British Airways,MAN,CDG,3h 40m,1 stop,C$ 396,2025-04-01,1,2025-03-31
+British Airways,MAN,CDG,3h 45m,1 stop,C$ 396,2025-04-01,1,2025-03-31
+SWISS • Operated by airBaltic,MAN,CDG,4h 15m,1 stop,C$ 428,2025-04-01,1,2025-03-31
+British Airways,MAN,CDG,4h 20m,1 stop,C$ 396,2025-04-01,1,2025-03-31
+KLM • Operated by Air France,MAN,CDG,3h 45m,1 stop,C$ 633,2025-04-01,1,2025-03-31
+British Airways,MAN,CDG,5h 25m,1 stop,C$ 396,2025-04-01,1,2025-03-31
+British Airways,MAN,CDG,3h 50m,1 stop,C$ 663,2025-04-01,1,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 315,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,1h 35m,direct,C$ 270,2025-04-02,2,2025-03-31
+"Ryanair, easyJet",MAN,CDG,5h 00m,1 stop,C$ 233,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 271,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 291,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 295,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,1h 35m,direct,C$ 300,2025-04-02,2,2025-03-31
+Air France,MAN,CDG,1h 35m,direct,C$ 487,2025-04-02,2,2025-03-31
+Air France,MAN,CDG,1h 35m,direct,C$ 487,2025-04-02,2,2025-03-31
+Air France,MAN,CDG,1h 40m,direct,C$ 498,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,4h 25m,1 stop,C$ 261,2025-04-02,2,2025-03-31
+British Airways,MAN,CDG,3h 55m,1 stop,C$ 322,2025-04-02,2,2025-03-31
+"Ryanair, Aer Lingus",MAN,CDG,4h 50m,1 stop,C$ 316,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,5h 25m,1 stop,C$ 310,2025-04-02,2,2025-03-31
+British Airways,MAN,CDG,3h 30m,1 stop,C$ 709,2025-04-02,2,2025-03-31
+KLM • Operated by Air France,MAN,CDG,3h 55m,1 stop,C$ 633,2025-04-02,2,2025-03-31
+easyJet,MAN,CDG,1h 35m,direct,C$ 293,2025-04-03,3,2025-03-31
+"Ryanair, easyJet",MAN,CDG,6h 50m,1 stop,C$ 225,2025-04-03,3,2025-03-31
+easyJet,MAN,CDG,1h 35m,direct,C$ 343,2025-04-03,3,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 341,2025-04-03,3,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 352,2025-04-03,3,2025-03-31
+easyJet,MAN,CDG,1h 30m,direct,C$ 422,2025-04-03,3,2025-03-31
+Air France,MAN,CDG,1h 35m,direct,C$ 541,2025-04-03,3,2025-03-31
+Air France,MAN,CDG,1h 40m,direct,C$ 864,2025-04-03,3,2025-03-31
+Air France • Operated by HOP!,MAN,CDG,1h 30m,direct,"C$ 1,180",2025-04-03,3,2025-03-31
+"Ryanair, easyJet",MAN,CDG,6h 05m,1 stop,C$ 302,2025-04-03,3,2025-03-31
+KLM • Operated by Air France,MAN,CDG,3h 45m,1 stop,C$ 533,2025-04-03,3,2025-03-31
+"Jet2, easyJet",MAN,CDG,6h 05m,1 stop,C$ 325,2025-04-03,3,2025-03-31
+easyJet,MAN,CDG,7h 05m,1 stop,C$ 254,2025-04-03,3,2025-03-31
+British Airways,MAN,CDG,4h 30m,1 stop,C$ 452,2025-04-03,3,2025-03-31
+Austrian Airlines,MAN,CDG,5h 05m,1 stop,C$ 512,2025-04-03,3,2025-03-31

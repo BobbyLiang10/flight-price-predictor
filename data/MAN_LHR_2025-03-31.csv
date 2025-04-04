@@ -1,0 +1,48 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+British Airways,MAN,LHR,1h 00m,direct,C$ 228,2025-04-01,1,2025-03-31
+FlixBus,MAN,LHR,5h 20m,0 changes,C$ 13,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 166,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 10m,direct,C$ 209,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 243,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 10m,direct,C$ 270,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 346,2025-04-01,1,2025-03-31
+Aer Lingus,MAN,LHR,4h 00m,1 stop,C$ 342,2025-04-01,1,2025-03-31
+Aer Lingus,MAN,LHR,4h 30m,1 stop,C$ 342,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 429,2025-04-01,1,2025-03-31
+Aer Lingus,MAN,LHR,3h 50m,1 stop,C$ 370,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 10m,direct,C$ 429,2025-04-01,1,2025-03-31
+"Aer Lingus, British Airways",MAN,LHR,4h 50m,1 stop,C$ 391,2025-04-01,1,2025-03-31
+British Airways • Operated by Emerald Airlines (U.K) Limited For Aer Lingus,MAN,LHR,3h 25m,1 stop,C$ 544,2025-04-01,1,2025-03-31
+Aer Lingus,MAN,LHR,4h 30m,1 stop,C$ 509,2025-04-01,1,2025-03-31
+Brussels Airlines,MAN,LHR,4h 10m,1 stop,C$ 603,2025-04-01,1,2025-03-31
+British Airways,MAN,LHR,1h 10m,direct,C$ 228,2025-04-02,2,2025-03-31
+FlixBus,MAN,LHR,5h 15m,0 changes,C$ 13,2025-04-02,2,2025-03-31
+British Airways,MAN,LHR,1h 10m,direct,C$ 166,2025-04-02,2,2025-03-31
+British Airways,MAN,LHR,1h 15m,direct,C$ 209,2025-04-02,2,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 253,2025-04-02,2,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 270,2025-04-02,2,2025-03-31
+British Airways,MAN,LHR,1h 10m,direct,C$ 270,2025-04-02,2,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,4h 50m,1 stop,C$ 221,2025-04-02,2,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,3h 40m,1 stop,C$ 269,2025-04-02,2,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,4h 25m,1 stop,C$ 275,2025-04-02,2,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,5h 00m,1 stop,C$ 267,2025-04-02,2,2025-03-31
+"Ryanair, British Airways",MAN,LHR,4h 00m,1 stop,C$ 312,2025-04-02,2,2025-03-31
+Aer Lingus,MAN,LHR,4h 35m,1 stop,C$ 332,2025-04-02,2,2025-03-31
+Brussels Airlines,MAN,LHR,4h 10m,1 stop,C$ 409,2025-04-02,2,2025-03-31
+"Aer Lingus, British Airways",MAN,LHR,4h 55m,1 stop,C$ 409,2025-04-02,2,2025-03-31
+"Aer Lingus, British Airways • Operated by Aer Lingus",MAN,LHR,4h 35m,1 stop,C$ 463,2025-04-02,2,2025-03-31
+FlixBus,MAN,LHR,4h 35m,0 changes,C$ 11,2025-04-03,3,2025-03-31
+British Airways,MAN,LHR,1h 10m,direct,C$ 284,2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,4h 00m,1 stop,C$ 311,2025-04-03,3,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 386,2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,3h 50m,1 stop,C$ 370,2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,4h 35m,1 stop,C$ 360,2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,3h 55m,1 stop,C$ 399,2025-04-03,3,2025-03-31
+"easyJet, British Airways",MAN,LHR,3h 55m,1 stop,C$ 416,2025-04-03,3,2025-03-31
+Aer Lingus,MAN,LHR,4h 30m,1 stop,C$ 415,2025-04-03,3,2025-03-31
+"Aer Lingus, British Airways",MAN,LHR,4h 00m,1 stop,C$ 453,2025-04-03,3,2025-03-31
+British Airways,MAN,LHR,1h 00m,direct,C$ 524,2025-04-03,3,2025-03-31
+"Ryanair, British Airways",MAN,LHR,3h 35m,1 stop,C$ 466,2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,4h 25m,1 stop,C$ 455,2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,LHR,4h 05m,1 stop,C$ 468,2025-04-03,3,2025-03-31
+Brussels Airlines,MAN,LHR,4h 10m,1 stop,C$ 482,2025-04-03,3,2025-03-31

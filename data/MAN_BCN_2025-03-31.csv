@@ -1,0 +1,49 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Vueling,MAN,BCN,2h 25m,direct,C$ 134,2025-04-01,1,2025-03-31
+"easyJet, Ryanair",MAN,BCN,13h 50m,1 stop,C$ 120,2025-04-01,1,2025-03-31
+Vueling,MAN,BCN,2h 25m,direct,C$ 166,2025-04-01,1,2025-03-31
+easyJet,MAN,BCN,2h 25m,direct,C$ 187,2025-04-01,1,2025-03-31
+British Airways • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 273,2025-04-01,1,2025-03-31
+British Airways • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 299,2025-04-01,1,2025-03-31
+Ryanair,MAN,BCN,2h 25m,direct,C$ 282,2025-04-01,1,2025-03-31
+Iberia • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 280,2025-04-01,1,2025-03-31
+Iberia • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 329,2025-04-01,1,2025-03-31
+Ryanair,MAN,BCN,2h 25m,direct,C$ 576,2025-04-01,1,2025-03-31
+"Ryanair, Vueling",MAN,BCN,4h 35m,1 stop,C$ 356,2025-04-01,1,2025-03-31
+"Ryanair, Vueling",MAN,BCN,4h 55m,1 stop,C$ 374,2025-04-01,1,2025-03-31
+easyJet,MAN,BCN,5h 15m,1 stop,C$ 337,2025-04-01,1,2025-03-31
+Air France,MAN,BCN,5h 05m,1 stop,C$ 447,2025-04-01,1,2025-03-31
+"easyJet, Vueling",MAN,BCN,6h 35m,1 stop,C$ 284,2025-04-01,1,2025-03-31
+Lufthansa,MAN,BCN,5h 20m,1 stop,C$ 467,2025-04-01,1,2025-03-31
+Vueling,MAN,BCN,2h 25m,direct,C$ 188,2025-04-02,2,2025-03-31
+"Ryanair, Vueling",MAN,BCN,8h 00m,1 stop,C$ 116,2025-04-02,2,2025-03-31
+Ryanair,MAN,BCN,2h 25m,direct,C$ 227,2025-04-02,2,2025-03-31
+easyJet,MAN,BCN,2h 20m,direct,C$ 268,2025-04-02,2,2025-03-31
+easyJet,MAN,BCN,2h 20m,direct,C$ 305,2025-04-02,2,2025-03-31
+British Airways • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 327,2025-04-02,2,2025-03-31
+easyJet,MAN,BCN,2h 20m,direct,C$ 327,2025-04-02,2,2025-03-31
+Iberia • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 389,2025-04-02,2,2025-03-31
+"easyJet, Vueling",MAN,BCN,4h 15m,1 stop,C$ 354,2025-04-02,2,2025-03-31
+Eurowings,MAN,BCN,4h 55m,1 stop,C$ 251,2025-04-02,2,2025-03-31
+"Ryanair, Vueling",MAN,BCN,4h 45m,1 stop,C$ 172,2025-04-02,2,2025-03-31
+Ryanair,MAN,BCN,4h 40m,1 stop,C$ 321,2025-04-02,2,2025-03-31
+"Ryanair, Vueling",MAN,BCN,4h 50m,1 stop,C$ 308,2025-04-02,2,2025-03-31
+British Airways,MAN,BCN,4h 15m,1 stop,C$ 535,2025-04-02,2,2025-03-31
+"easyJet, Vueling",MAN,BCN,5h 40m,1 stop,C$ 213,2025-04-02,2,2025-03-31
+"Ryanair, Air Europa",MAN,BCN,5h 05m,1 stop,C$ 372,2025-04-02,2,2025-03-31
+easyJet,MAN,BCN,2h 25m,direct,C$ 274,2025-04-03,3,2025-03-31
+"Jet2, Ryanair",MAN,BCN,7h 30m,1 stop,C$ 129,2025-04-03,3,2025-03-31
+Vueling,MAN,BCN,2h 25m,direct,C$ 293,2025-04-03,3,2025-03-31
+easyJet,MAN,BCN,2h 20m,direct,C$ 370,2025-04-03,3,2025-03-31
+British Airways • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 453,2025-04-03,3,2025-03-31
+Iberia • Operated by Vueling Airlines,MAN,BCN,2h 25m,direct,C$ 477,2025-04-03,3,2025-03-31
+Ryanair,MAN,BCN,2h 25m,direct,C$ 455,2025-04-03,3,2025-03-31
+"easyJet, Vueling",MAN,BCN,4h 20m,1 stop,C$ 331,2025-04-03,3,2025-03-31
+"Ryanair, Air Europa",MAN,BCN,4h 30m,1 stop,C$ 329,2025-04-03,3,2025-03-31
+Ryanair,MAN,BCN,5h 15m,1 stop,C$ 228,2025-04-03,3,2025-03-31
+"Ryanair, Vueling",MAN,BCN,4h 55m,1 stop,C$ 323,2025-04-03,3,2025-03-31
+"easyJet, Vueling",MAN,BCN,4h 50m,1 stop,C$ 331,2025-04-03,3,2025-03-31
+"Ryanair, Eurowings",MAN,BCN,4h 55m,1 stop,C$ 331,2025-04-03,3,2025-03-31
+"Ryanair, Vueling",MAN,BCN,4h 35m,1 stop,C$ 391,2025-04-03,3,2025-03-31
+"Ryanair, Vueling",MAN,BCN,5h 00m,1 stop,C$ 317,2025-04-03,3,2025-03-31
+Lufthansa,MAN,BCN,4h 50m,1 stop,C$ 467,2025-04-03,3,2025-03-31

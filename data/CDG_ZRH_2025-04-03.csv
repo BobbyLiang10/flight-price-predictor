@@ -1,0 +1,47 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+SWISS,CDG,ZRH,1h 20m,direct,C$ 442,2025-04-07,4,2025-04-03
+SNCF • Operated by Lyria,CDG,ZRH,4h 04m,0 changes,C$ 214,2025-04-07,4,2025-04-03
+FlixBus,CDG,ZRH,9h 30m,0 changes,C$ 81,2025-04-07,4,2025-04-03
+SWISS,CDG,ZRH,1h 20m,direct,C$ 407,2025-04-07,4,2025-04-03
+SWISS,CDG,ZRH,1h 20m,direct,C$ 463,2025-04-07,4,2025-04-03
+SWISS • Operated by airBaltic,CDG,ZRH,1h 15m,direct,C$ 486,2025-04-07,4,2025-04-03
+SWISS • Operated by airBaltic,CDG,ZRH,1h 15m,direct,C$ 600,2025-04-07,4,2025-04-03
+Lufthansa • Operated by CityJet,CDG,ZRH,3h 35m,1 stop,C$ 514,2025-04-07,4,2025-04-03
+British Airways,CDG,ZRH,4h 05m,1 stop,C$ 498,2025-04-07,4,2025-04-03
+Vueling,CDG,ZRH,4h 40m,1 stop,C$ 460,2025-04-07,4,2025-04-03
+Lufthansa,CDG,ZRH,4h 40m,1 stop,C$ 460,2025-04-07,4,2025-04-03
+Austrian Airlines • Operated by SWISS,CDG,ZRH,3h 55m,1 stop,C$ 566,2025-04-07,4,2025-04-03
+Lufthansa • Operated by CityJet,CDG,ZRH,4h 20m,1 stop,C$ 514,2025-04-07,4,2025-04-03
+Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines,CDG,ZRH,3h 50m,1 stop,C$ 583,2025-04-07,4,2025-04-03
+British Airways,CDG,ZRH,4h 15m,1 stop,C$ 614,2025-04-07,4,2025-04-03
+Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines,CDG,ZRH,5h 10m,1 stop,C$ 516,2025-04-07,4,2025-04-03
+SNCF • Operated by Lyria,CDG,ZRH,4h 04m,0 changes,C$ 173,2025-04-08,5,2025-04-03
+FlixBus,CDG,ZRH,9h 30m,0 changes,C$ 120,2025-04-08,5,2025-04-03
+SWISS • Operated by airBaltic,CDG,ZRH,1h 15m,direct,C$ 474,2025-04-08,5,2025-04-03
+SWISS,CDG,ZRH,1h 20m,direct,C$ 475,2025-04-08,5,2025-04-03
+SWISS,CDG,ZRH,1h 20m,direct,C$ 475,2025-04-08,5,2025-04-03
+SWISS • Operated by airBaltic,CDG,ZRH,1h 15m,direct,C$ 772,2025-04-08,5,2025-04-03
+Vueling,CDG,ZRH,5h 00m,1 stop,C$ 245,2025-04-08,5,2025-04-03
+"KLM • Operated by KLM Cityhopper, Air France",CDG,ZRH,4h 10m,1 stop,C$ 397,2025-04-08,5,2025-04-03
+"Scandinavian Airlines • Operated by SAS Connect, Jettime A/S",CDG,ZRH,5h 30m,1 stop,C$ 317,2025-04-08,5,2025-04-03
+Lufthansa • Operated by SWISS,CDG,ZRH,3h 40m,1 stop,C$ 477,2025-04-08,5,2025-04-03
+Lufthansa,CDG,ZRH,3h 20m,1 stop,C$ 514,2025-04-08,5,2025-04-03
+Austrian Airlines • Operated by SWISS,CDG,ZRH,3h 55m,1 stop,C$ 508,2025-04-08,5,2025-04-03
+Lufthansa,CDG,ZRH,3h 25m,1 stop,C$ 592,2025-04-08,5,2025-04-03
+British Airways,CDG,ZRH,5h 45m,1 stop,C$ 373,2025-04-08,5,2025-04-03
+British Airways,CDG,ZRH,4h 50m,1 stop,C$ 461,2025-04-08,5,2025-04-03
+SNCF • Operated by Lyria,CDG,ZRH,4h 04m,0 changes,C$ 173,2025-04-09,6,2025-04-03
+FlixBus,CDG,ZRH,9h 30m,0 changes,C$ 58,2025-04-09,6,2025-04-03
+SWISS • Operated by airBaltic,CDG,ZRH,1h 15m,direct,C$ 346,2025-04-09,6,2025-04-03
+SWISS,CDG,ZRH,1h 20m,direct,C$ 406,2025-04-09,6,2025-04-03
+SWISS • Operated by airBaltic,CDG,ZRH,1h 15m,direct,C$ 474,2025-04-09,6,2025-04-03
+SWISS,CDG,ZRH,1h 20m,direct,C$ 572,2025-04-09,6,2025-04-03
+Vueling,CDG,ZRH,4h 25m,1 stop,C$ 277,2025-04-09,6,2025-04-03
+Lufthansa,CDG,ZRH,3h 20m,1 stop,C$ 411,2025-04-09,6,2025-04-03
+easyJet,CDG,ZRH,5h 20m,1 stop,C$ 244,2025-04-09,6,2025-04-03
+"KLM • Operated by KLM Cityhopper, Air France",CDG,ZRH,4h 10m,1 stop,C$ 383,2025-04-09,6,2025-04-03
+"Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines, Lufthansa CityLine",CDG,ZRH,4h 05m,1 stop,C$ 424,2025-04-09,6,2025-04-03
+Lufthansa • Operated by CityJet,CDG,ZRH,3h 25m,1 stop,C$ 514,2025-04-09,6,2025-04-03
+Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines,CDG,ZRH,3h 20m,1 stop,C$ 553,2025-04-09,6,2025-04-03
+"Scandinavian Airlines • Operated by SAS Connect, Jettime A/S",CDG,ZRH,5h 30m,1 stop,C$ 317,2025-04-09,6,2025-04-03
+Austrian Airlines • Operated by SWISS,CDG,ZRH,3h 55m,1 stop,C$ 508,2025-04-09,6,2025-04-03

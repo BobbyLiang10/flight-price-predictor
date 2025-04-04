@@ -1,0 +1,46 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Cathay Pacific,YYZ,HKG,15h 10m,direct,"C$ 1,610",2025-04-01,1,2025-03-31
+"American Airlines, Japan Airlines • Operated by Republic Airways AS American Eagle, American Airlines",YYZ,HKG,27h 00m,2 stops,C$ 785,2025-04-01,1,2025-03-31
+United Airlines,YYZ,HKG,22h 00m,1 stop,"C$ 1,116",2025-04-01,1,2025-03-31
+United Airlines,YYZ,HKG,24h 25m,1 stop,"C$ 1,116",2025-04-01,1,2025-03-31
+Korean Air • Operated by Delta,YYZ,HKG,28h 00m,2 stops,C$ 944,2025-04-01,1,2025-03-31
+"Iberia, Malaysia Airlines",YYZ,HKG,20h 35m,1 stop,"C$ 1,560",2025-04-01,1,2025-03-31
+United Airlines • Operated by Air Canada,YYZ,HKG,22h 05m,1 stop,"C$ 1,261",2025-04-01,1,2025-03-31
+"Iberia, Cathay Pacific",YYZ,HKG,20h 35m,1 stop,"C$ 1,560",2025-04-01,1,2025-03-31
+United Airlines,YYZ,HKG,25h 41m,2 stops,"C$ 1,116",2025-04-01,1,2025-03-31
+"Air Canada, EVA Air",YYZ,HKG,25h 55m,2 stops,"C$ 1,156",2025-04-01,1,2025-03-31
+United Airlines,YYZ,HKG,25h 22m,2 stops,"C$ 1,116",2025-04-01,1,2025-03-31
+United Airlines,YYZ,HKG,25h 22m,2 stops,"C$ 1,116",2025-04-01,1,2025-03-31
+United Airlines • Operated by Republic Airways DBA United Express,YYZ,HKG,26h 30m,2 stops,"C$ 1,116",2025-04-01,1,2025-03-31
+United Airlines • Operated by Republic Airways DBA United Express,YYZ,HKG,27h 10m,2 stops,"C$ 1,116",2025-04-01,1,2025-03-31
+United Airlines,YYZ,HKG,24h 42m,2 stops,"C$ 1,226",2025-04-01,1,2025-03-31
+Cathay Pacific,YYZ,HKG,15h 30m,direct,"C$ 1,298",2025-04-02,2,2025-03-31
+Korean Air • Operated by WestJet,YYZ,HKG,28h 00m,2 stops,C$ 807,2025-04-02,2,2025-03-31
+Cathay Pacific,YYZ,HKG,15h 30m,direct,"C$ 1,298",2025-04-02,2,2025-03-31
+United Airlines,YYZ,HKG,22h 00m,1 stop,"C$ 1,116",2025-04-02,2,2025-03-31
+Cathay Pacific,YYZ,HKG,15h 10m,direct,"C$ 1,522",2025-04-02,2,2025-03-31
+"Korean Air • Operated by Delta, Skywest DBA Delta Connection",YYZ,HKG,24h 10m,2 stops,C$ 945,2025-04-02,2,2025-03-31
+United Airlines,YYZ,HKG,24h 25m,1 stop,"C$ 1,116",2025-04-02,2,2025-03-31
+EVA Air,YYZ,HKG,19h 35m,1 stop,"C$ 1,235",2025-04-02,2,2025-03-31
+Korean Air • Operated by Delta,YYZ,HKG,28h 15m,2 stops,C$ 945,2025-04-02,2,2025-03-31
+United Airlines • Operated by Air Canada,YYZ,HKG,22h 05m,1 stop,"C$ 1,261",2025-04-02,2,2025-03-31
+Korean Air • Operated by Delta,YYZ,HKG,28h 00m,2 stops,C$ 945,2025-04-02,2,2025-03-31
+"Air Canada, Greater Bay Airlines",YYZ,HKG,20h 30m,1 stop,"C$ 1,361",2025-04-02,2,2025-03-31
+United Airlines • Operated by Air Canada,YYZ,HKG,23h 00m,1 stop,"C$ 1,304",2025-04-02,2,2025-03-31
+"WestJet, EVA Air",YYZ,HKG,27h 50m,2 stops,"C$ 1,016",2025-04-02,2,2025-03-31
+Air India,YYZ,HKG,30h 00m,1 stop,"C$ 1,156",2025-04-02,2,2025-03-31
+Cathay Pacific,YYZ,HKG,15h 30m,direct,"C$ 1,297",2025-04-03,3,2025-03-31
+Korean Air • Operated by WestJet,YYZ,HKG,28h 00m,2 stops,C$ 807,2025-04-03,3,2025-03-31
+Cathay Pacific,YYZ,HKG,15h 30m,direct,"C$ 1,297",2025-04-03,3,2025-03-31
+United Airlines,YYZ,HKG,22h 00m,1 stop,"C$ 1,116",2025-04-03,3,2025-03-31
+EVA Air,YYZ,HKG,19h 35m,1 stop,"C$ 1,181",2025-04-03,3,2025-03-31
+"Korean Air • Operated by Delta, Skywest DBA Delta Connection",YYZ,HKG,24h 10m,2 stops,C$ 945,2025-04-03,3,2025-03-31
+EVA Air,YYZ,HKG,20h 50m,1 stop,"C$ 1,235",2025-04-03,3,2025-03-31
+Philippine Airlines,YYZ,HKG,20h 35m,1 stop,"C$ 1,291",2025-04-03,3,2025-03-31
+United Airlines,YYZ,HKG,24h 25m,1 stop,"C$ 1,116",2025-04-03,3,2025-03-31
+United Airlines • Operated by Republic Airways DBA United Express,YYZ,HKG,23h 55m,2 stops,"C$ 1,116",2025-04-03,3,2025-03-31
+United Airlines,YYZ,HKG,24h 42m,2 stops,"C$ 1,122",2025-04-03,3,2025-03-31
+Korean Air • Operated by Delta,YYZ,HKG,28h 00m,2 stops,C$ 945,2025-04-03,3,2025-03-31
+EVA Air,YYZ,HKG,22h 50m,1 stop,"C$ 1,262",2025-04-03,3,2025-03-31
+United Airlines,YYZ,HKG,25h 41m,2 stops,"C$ 1,116",2025-04-03,3,2025-03-31
+Philippine Airlines,YYZ,HKG,22h 50m,1 stop,"C$ 1,291",2025-04-03,3,2025-03-31

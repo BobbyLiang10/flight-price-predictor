@@ -1,0 +1,49 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+easyJet,MAN,BER,1h 55m,direct,C$ 172,2025-04-07,4,2025-04-03
+Ryanair • Operated by Malta Air,MAN,BER,1h 55m,direct,C$ 221,2025-04-07,4,2025-04-03
+Ryanair,MAN,BER,1h 50m,direct,C$ 304,2025-04-07,4,2025-04-03
+"Ryanair, Transavia France",MAN,BER,6h 10m,1 stop,C$ 335,2025-04-07,4,2025-04-03
+"Jet2, Ryanair • Operated by Malta Air",MAN,BER,6h 05m,1 stop,C$ 388,2025-04-07,4,2025-04-03
+Lufthansa • Operated by Lufthansa City Airlines,MAN,BER,4h 15m,1 stop,"C$ 1,553",2025-04-07,4,2025-04-03
+"Jet2, Ryanair",MAN,BER,6h 05m,1 stop,C$ 490,2025-04-07,4,2025-04-03
+"Jet2, easyJet",MAN,BER,6h 10m,1 stop,C$ 483,2025-04-07,4,2025-04-03
+KLM,MAN,BER,3h 40m,1 stop,"C$ 1,952",2025-04-07,4,2025-04-03
+Eurowings,MAN,BER,6h 15m,1 stop,C$ 624,2025-04-07,4,2025-04-03
+Aer Lingus,MAN,BER,5h 40m,1 stop,C$ 944,2025-04-07,4,2025-04-03
+British Airways,MAN,BER,4h 30m,1 stop,"C$ 1,860",2025-04-07,4,2025-04-03
+Lufthansa • Operated by Lufthansa City Airlines,MAN,BER,5h 10m,1 stop,"C$ 1,553",2025-04-07,4,2025-04-03
+easyJet,MAN,BER,5h 55m,1 stop,C$ 730,2025-04-07,4,2025-04-03
+KLM,MAN,BER,4h 30m,1 stop,"C$ 1,952",2025-04-07,4,2025-04-03
+Ryanair • Operated by Malta Air,MAN,BER,1h 55m,direct,C$ 216,2025-04-08,5,2025-04-03
+Ryanair • Operated by Malta Air,MAN,BER,1h 55m,direct,C$ 155,2025-04-08,5,2025-04-03
+Ryanair • Operated by Malta Air,MAN,BER,12h 00m,1 stop,C$ 127,2025-04-08,5,2025-04-03
+easyJet,MAN,BER,1h 55m,direct,C$ 398,2025-04-08,5,2025-04-03
+Ryanair,MAN,BER,4h 30m,1 stop,C$ 143,2025-04-08,5,2025-04-03
+easyJet,MAN,BER,3h 55m,1 stop,C$ 414,2025-04-08,5,2025-04-03
+KLM,MAN,BER,3h 40m,1 stop,C$ 595,2025-04-08,5,2025-04-03
+KLM,MAN,BER,4h 30m,1 stop,C$ 446,2025-04-08,5,2025-04-03
+Lufthansa,MAN,BER,4h 00m,1 stop,C$ 568,2025-04-08,5,2025-04-03
+easyJet,MAN,BER,5h 15m,1 stop,C$ 365,2025-04-08,5,2025-04-03
+Aer Lingus,MAN,BER,5h 40m,1 stop,C$ 333,2025-04-08,5,2025-04-03
+Brussels Airlines • Operated by airBaltic,MAN,BER,3h 45m,1 stop,C$ 828,2025-04-08,5,2025-04-03
+"Aer Lingus, Ryanair",MAN,BER,6h 35m,1 stop,C$ 259,2025-04-08,5,2025-04-03
+British Airways,MAN,BER,4h 15m,1 stop,C$ 695,2025-04-08,5,2025-04-03
+KLM,MAN,BER,4h 25m,1 stop,C$ 803,2025-04-08,5,2025-04-03
+British Airways,MAN,BER,4h 00m,1 stop,C$ 917,2025-04-08,5,2025-04-03
+KLM • Operated by KLM Cityhopper,MAN,BER,5h 50m,1 stop,C$ 446,2025-04-08,5,2025-04-03
+Ryanair,MAN,BER,1h 55m,direct,C$ 238,2025-04-09,6,2025-04-03
+Ryanair,MAN,BER,1h 55m,direct,C$ 176,2025-04-09,6,2025-04-03
+Ryanair • Operated by Malta Air,MAN,BER,6h 15m,1 stop,C$ 125,2025-04-09,6,2025-04-03
+easyJet,MAN,BER,1h 55m,direct,C$ 193,2025-04-09,6,2025-04-03
+Ryanair • Operated by Malta Air,MAN,BER,1h 55m,direct,C$ 237,2025-04-09,6,2025-04-03
+"Ryanair, Aer Lingus",MAN,BER,4h 45m,1 stop,C$ 300,2025-04-09,6,2025-04-03
+British Airways,MAN,BER,3h 55m,1 stop,C$ 476,2025-04-09,6,2025-04-03
+"Aer Lingus, Ryanair • Operated by Malta Air",MAN,BER,7h 10m,1 stop,C$ 155,2025-04-09,6,2025-04-03
+KLM • Operated by KLM Cityhopper,MAN,BER,3h 50m,1 stop,C$ 485,2025-04-09,6,2025-04-03
+SWISS,MAN,BER,4h 15m,1 stop,C$ 482,2025-04-09,6,2025-04-03
+KLM,MAN,BER,4h 25m,1 stop,C$ 391,2025-04-09,6,2025-04-03
+British Airways,MAN,BER,4h 20m,1 stop,C$ 531,2025-04-09,6,2025-04-03
+KLM,MAN,BER,3h 40m,1 stop,C$ 795,2025-04-09,6,2025-04-03
+"Norwegian, Scandinavian Airlines • Operated by Norwegian Air International",MAN,BER,5h 05m,1 stop,C$ 329,2025-04-09,6,2025-04-03
+British Airways,MAN,BER,5h 10m,1 stop,C$ 392,2025-04-09,6,2025-04-03
+Ryanair • Operated by Malta Air,MAN,BER,5h 30m,1 stop,C$ 310,2025-04-09,6,2025-04-03

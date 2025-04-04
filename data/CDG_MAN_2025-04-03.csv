@@ -1,0 +1,46 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+easyJet,CDG,MAN,1h 25m,direct,C$ 128,2025-04-07,4,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 132,2025-04-07,4,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 136,2025-04-07,4,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 146,2025-04-07,4,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 150,2025-04-07,4,2025-04-03
+SWISS,CDG,MAN,4h 05m,1 stop,C$ 432,2025-04-07,4,2025-04-03
+Lufthansa,CDG,MAN,4h 10m,1 stop,C$ 422,2025-04-07,4,2025-04-03
+Lufthansa,CDG,MAN,4h 10m,1 stop,C$ 422,2025-04-07,4,2025-04-03
+SWISS • Operated by airBaltic,CDG,MAN,4h 00m,1 stop,C$ 610,2025-04-07,4,2025-04-03
+easyJet,CDG,MAN,5h 35m,1 stop,C$ 360,2025-04-07,4,2025-04-03
+British Airways,CDG,MAN,4h 15m,1 stop,C$ 485,2025-04-07,4,2025-04-03
+KLM • Operated by Eastern Airways,CDG,MAN,3h 55m,1 stop,C$ 765,2025-04-07,4,2025-04-03
+British Airways,CDG,MAN,3h 40m,1 stop,C$ 969,2025-04-07,4,2025-04-03
+Austrian Airlines,CDG,MAN,6h 20m,1 stop,C$ 450,2025-04-07,4,2025-04-03
+British Airways,CDG,MAN,4h 45m,1 stop,C$ 640,2025-04-07,4,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 121,2025-04-08,5,2025-04-03
+FlixBus,CDG,MAN,16h 35m,1 change,C$ 86,2025-04-08,5,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 134,2025-04-08,5,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 139,2025-04-08,5,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 196,2025-04-08,5,2025-04-03
+British Airways,CDG,MAN,3h 35m,1 stop,C$ 346,2025-04-08,5,2025-04-03
+British Airways,CDG,MAN,4h 15m,1 stop,C$ 299,2025-04-08,5,2025-04-03
+easyJet,CDG,MAN,5h 00m,1 stop,C$ 247,2025-04-08,5,2025-04-03
+British Airways,CDG,MAN,4h 40m,1 stop,C$ 299,2025-04-08,5,2025-04-03
+SWISS • Operated by airBaltic,CDG,MAN,4h 00m,1 stop,C$ 441,2025-04-08,5,2025-04-03
+British Airways,CDG,MAN,4h 20m,1 stop,C$ 333,2025-04-08,5,2025-04-03
+Scandinavian Airlines • Operated by SAS Connect,CDG,MAN,5h 15m,1 stop,C$ 320,2025-04-08,5,2025-04-03
+KLM • Operated by Air France,CDG,MAN,4h 15m,1 stop,C$ 391,2025-04-08,5,2025-04-03
+British Airways,CDG,MAN,3h 55m,1 stop,C$ 431,2025-04-08,5,2025-04-03
+Lufthansa,CDG,MAN,4h 10m,1 stop,C$ 444,2025-04-08,5,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 200,2025-04-09,6,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 217,2025-04-09,6,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 277,2025-04-09,6,2025-04-03
+easyJet,CDG,MAN,1h 25m,direct,C$ 424,2025-04-09,6,2025-04-03
+"easyJet, Ryanair",CDG,MAN,5h 00m,1 stop,C$ 202,2025-04-09,6,2025-04-03
+Aer Lingus,CDG,MAN,4h 40m,1 stop,C$ 218,2025-04-09,6,2025-04-03
+"Aer Lingus, Ryanair",CDG,MAN,4h 20m,1 stop,C$ 240,2025-04-09,6,2025-04-03
+"Aer Lingus, Ryanair",CDG,MAN,4h 30m,1 stop,C$ 240,2025-04-09,6,2025-04-03
+Lufthansa,CDG,MAN,4h 20m,1 stop,C$ 364,2025-04-09,6,2025-04-03
+British Airways,CDG,MAN,3h 40m,1 stop,C$ 485,2025-04-09,6,2025-04-03
+Lufthansa,CDG,MAN,4h 10m,1 stop,C$ 462,2025-04-09,6,2025-04-03
+Aer Lingus • Operated by Emerald Airlines,CDG,MAN,4h 30m,1 stop,C$ 328,2025-04-09,6,2025-04-03
+British Airways,CDG,MAN,3h 20m,1 stop,C$ 614,2025-04-09,6,2025-04-03
+Scandinavian Airlines • Operated by SAS Connect,CDG,MAN,5h 15m,1 stop,C$ 360,2025-04-09,6,2025-04-03
+"Aer Lingus, Ryanair",CDG,MAN,5h 40m,1 stop,C$ 240,2025-04-09,6,2025-04-03

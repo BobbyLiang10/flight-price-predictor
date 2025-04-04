@@ -1,0 +1,50 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Air Canada,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-01,1,2025-03-31
+Brussels Airlines,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-01,1,2025-03-31
+"Air Transat, easyJet",YYZ,CDG,13h 55m,1 stop,C$ 590,2025-04-01,1,2025-03-31
+Lufthansa,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-01,1,2025-03-31
+Air Canada,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-01,1,2025-03-31
+Icelandair,YYZ,CDG,10h 10m,1 stop,C$ 772,2025-04-01,1,2025-03-31
+Icelandair,YYZ,CDG,10h 20m,1 stop,C$ 772,2025-04-01,1,2025-03-31
+Air Transat,YYZ,CDG,9h 15m,1 stop,C$ 876,2025-04-01,1,2025-03-31
+Porter Airlines • Operated by Air Transat,YYZ,CDG,9h 40m,1 stop,C$ 869,2025-04-01,1,2025-03-31
+Air Transat • Operated by Porter Airlines,YYZ,CDG,9h 40m,1 stop,C$ 876,2025-04-01,1,2025-03-31
+Porter Airlines • Operated by Air Transat,YYZ,CDG,11h 25m,1 stop,C$ 869,2025-04-01,1,2025-03-31
+Air Transat • Operated by Porter Airlines,YYZ,CDG,11h 25m,1 stop,C$ 876,2025-04-01,1,2025-03-31
+Aer Lingus,YYZ,CDG,11h 15m,1 stop,C$ 945,2025-04-01,1,2025-03-31
+Aer Lingus,YYZ,CDG,10h 05m,1 stop,"C$ 1,046",2025-04-01,1,2025-03-31
+British Airways,YYZ,CDG,9h 55m,1 stop,"C$ 1,101",2025-04-01,1,2025-03-31
+"Finnair, British Airways • Operated by British Airways",YYZ,CDG,9h 55m,1 stop,"C$ 1,106",2025-04-01,1,2025-03-31
+SWISS,YYZ,CDG,10h 20m,1 stop,"C$ 1,119",2025-04-01,1,2025-03-31
+Royal Air Maroc,YYZ,CDG,12h 55m,1 stop,C$ 487,2025-04-02,2,2025-03-31
+Lufthansa,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-02,2,2025-03-31
+Royal Air Maroc,YYZ,CDG,12h 55m,1 stop,C$ 486,2025-04-02,2,2025-03-31
+Brussels Airlines,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-02,2,2025-03-31
+Air Canada,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-02,2,2025-03-31
+"Air Canada, Norse Atlantic Airways • Operated by Jazz",YYZ,CDG,10h 15m,1 stop,C$ 556,2025-04-02,2,2025-03-31
+Icelandair,YYZ,CDG,10h 10m,1 stop,C$ 761,2025-04-02,2,2025-03-31
+Icelandair,YYZ,CDG,10h 20m,1 stop,C$ 767,2025-04-02,2,2025-03-31
+Air Transat • Operated by Porter Airlines,YYZ,CDG,9h 40m,1 stop,C$ 846,2025-04-02,2,2025-03-31
+Porter Airlines • Operated by Air Transat,YYZ,CDG,9h 40m,1 stop,C$ 869,2025-04-02,2,2025-03-31
+Austrian Airlines,YYZ,CDG,7h 30m,direct,"C$ 1,565",2025-04-02,2,2025-03-31
+Delta • Operated by Air France,YYZ,CDG,7h 25m,direct,"C$ 1,611",2025-04-02,2,2025-03-31
+Air France,YYZ,CDG,7h 25m,direct,"C$ 1,611",2025-04-02,2,2025-03-31
+"Air Canada, Norse Atlantic Airways • Operated by Republic Airways/United Express",YYZ,CDG,13h 10m,1 stop,C$ 597,2025-04-02,2,2025-03-31
+"Air Canada, Norse Atlantic Airways • Operated by Jazz",YYZ,CDG,12h 45m,1 stop,C$ 700,2025-04-02,2,2025-03-31
+Aer Lingus,YYZ,CDG,10h 05m,1 stop,C$ 964,2025-04-02,2,2025-03-31
+Air Canada,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-03,3,2025-03-31
+Porter Airlines • Operated by Air Transat,YYZ,CDG,9h 40m,1 stop,C$ 602,2025-04-03,3,2025-03-31
+"TAP AIR PORTUGAL, easyJet",YYZ,CDG,12h 30m,1 stop,C$ 580,2025-04-03,3,2025-03-31
+Air Canada,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-03,3,2025-03-31
+Brussels Airlines • Operated by Air Canada,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-03,3,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,CDG,7h 30m,direct,"C$ 1,099",2025-04-03,3,2025-03-31
+Air Transat • Operated by Porter Airlines,YYZ,CDG,9h 40m,1 stop,C$ 652,2025-04-03,3,2025-03-31
+Porter Airlines • Operated by Air Transat,YYZ,CDG,11h 25m,1 stop,C$ 602,2025-04-03,3,2025-03-31
+Icelandair,YYZ,CDG,10h 10m,1 stop,C$ 768,2025-04-03,3,2025-03-31
+Icelandair,YYZ,CDG,10h 20m,1 stop,C$ 772,2025-04-03,3,2025-03-31
+Air Transat • Operated by Porter Airlines,YYZ,CDG,11h 25m,1 stop,C$ 652,2025-04-03,3,2025-03-31
+Austrian Airlines,YYZ,CDG,7h 30m,direct,"C$ 1,565",2025-04-03,3,2025-03-31
+Air France,YYZ,CDG,7h 25m,direct,"C$ 1,611",2025-04-03,3,2025-03-31
+Scandinavian Airlines,YYZ,CDG,11h 15m,1 stop,C$ 843,2025-04-03,3,2025-03-31
+Aer Lingus,YYZ,CDG,10h 05m,1 stop,C$ 964,2025-04-03,3,2025-03-31
+Aer Lingus,YYZ,CDG,11h 15m,1 stop,C$ 862,2025-04-03,3,2025-03-31

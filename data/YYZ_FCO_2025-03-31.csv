@@ -1,0 +1,48 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,151",2025-04-01,1,2025-03-31
+Icelandair,YYZ,FCO,12h 10m,1 stop,C$ 675,2025-04-01,1,2025-03-31
+TAP AIR PORTUGAL,YYZ,FCO,13h 05m,1 stop,C$ 605,2025-04-01,1,2025-03-31
+Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,151",2025-04-01,1,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,151",2025-04-01,1,2025-03-31
+Aer Lingus,YYZ,FCO,11h 00m,1 stop,C$ 901,2025-04-01,1,2025-03-31
+SWISS,YYZ,FCO,10h 15m,1 stop,"C$ 1,168",2025-04-01,1,2025-03-31
+"Air Canada, SWISS • Operated by SWISS",YYZ,FCO,10h 15m,1 stop,"C$ 1,177",2025-04-01,1,2025-03-31
+Air Canada • Operated by SWISS,YYZ,FCO,10h 15m,1 stop,"C$ 1,177",2025-04-01,1,2025-03-31
+Azores Airlines • Operated by TAP AIR PORTUGAL,YYZ,FCO,14h 00m,2 stops,C$ 764,2025-04-01,1,2025-03-31
+Air France,YYZ,FCO,11h 15m,1 stop,"C$ 1,171",2025-04-01,1,2025-03-31
+"TAP AIR PORTUGAL, ITA Airways",YYZ,FCO,13h 05m,1 stop,C$ 769,2025-04-01,1,2025-03-31
+Air Canada • Operated by Lufthansa,YYZ,FCO,11h 45m,1 stop,"C$ 1,180",2025-04-01,1,2025-03-31
+SWISS • Operated by Air Canada,YYZ,FCO,11h 55m,1 stop,"C$ 1,177",2025-04-01,1,2025-03-31
+"Air Canada • Operated by United Airlines, Republic Airways/United Express",YYZ,FCO,11h 45m,1 stop,"C$ 1,191",2025-04-01,1,2025-03-31
+British Airways,YYZ,FCO,11h 20m,1 stop,"C$ 1,259",2025-04-01,1,2025-03-31
+Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,151",2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,FCO,11h 45m,1 stop,C$ 591,2025-04-02,2,2025-03-31
+ITA Airways,YYZ,FCO,8h 35m,direct,"C$ 1,058",2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,FCO,13h 05m,1 stop,C$ 593,2025-04-02,2,2025-03-31
+Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,151",2025-04-02,2,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,151",2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,FCO,14h 00m,1 stop,C$ 602,2025-04-02,2,2025-03-31
+Aer Lingus,YYZ,FCO,11h 00m,1 stop,C$ 900,2025-04-02,2,2025-03-31
+"Air Transat, British Airways",YYZ,FCO,15h 05m,1 stop,C$ 796,2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,FCO,17h 05m,1 stop,C$ 602,2025-04-02,2,2025-03-31
+"Azores Airlines • Operated by TAP AIR PORTUGAL, White Airways",YYZ,FCO,14h 00m,2 stops,C$ 746,2025-04-02,2,2025-03-31
+"Porter Airlines, British Airways",YYZ,FCO,15h 05m,1 stop,C$ 821,2025-04-02,2,2025-03-31
+Royal Air Maroc,YYZ,FCO,12h 15m,1 stop,C$ 998,2025-04-02,2,2025-03-31
+"Azores Airlines • Operated by TAP AIR PORTUGAL, White Airways",YYZ,FCO,16h 15m,2 stops,C$ 746,2025-04-02,2,2025-03-31
+Air France,YYZ,FCO,10h 30m,1 stop,"C$ 1,171",2025-04-02,2,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,FCO,10h 15m,1 stop,"C$ 1,151",2025-04-02,2,2025-03-31
+Icelandair,YYZ,FCO,12h 10m,1 stop,C$ 666,2025-04-03,3,2025-03-31
+TAP AIR PORTUGAL,YYZ,FCO,17h 05m,1 stop,C$ 589,2025-04-03,3,2025-03-31
+Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,227",2025-04-03,3,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,FCO,8h 30m,direct,"C$ 1,227",2025-04-03,3,2025-03-31
+Aer Lingus,YYZ,FCO,11h 00m,1 stop,"C$ 1,075",2025-04-03,3,2025-03-31
+SWISS,YYZ,FCO,10h 15m,1 stop,"C$ 1,241",2025-04-03,3,2025-03-31
+"Air Canada, SWISS • Operated by SWISS",YYZ,FCO,10h 15m,1 stop,"C$ 1,253",2025-04-03,3,2025-03-31
+Air Canada • Operated by SWISS,YYZ,FCO,10h 15m,1 stop,"C$ 1,253",2025-04-03,3,2025-03-31
+TAP AIR PORTUGAL,YYZ,FCO,13h 05m,1 stop,C$ 951,2025-04-03,3,2025-03-31
+KLM,YYZ,FCO,10h 40m,1 stop,"C$ 1,253",2025-04-03,3,2025-03-31
+British Airways,YYZ,FCO,11h 30m,1 stop,"C$ 1,229",2025-04-03,3,2025-03-31
+"Air Canada • Operated by United Airlines, Republic Airways/United Express",YYZ,FCO,11h 45m,1 stop,"C$ 1,267",2025-04-03,3,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,FCO,11h 45m,1 stop,"C$ 1,256",2025-04-03,3,2025-03-31
+Azores Airlines • Operated by TAP AIR PORTUGAL,YYZ,FCO,14h 00m,2 stops,C$ 974,2025-04-03,3,2025-03-31
+Lufthansa,YYZ,FCO,12h 10m,1 stop,"C$ 1,275",2025-04-03,3,2025-03-31

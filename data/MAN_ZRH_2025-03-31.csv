@@ -1,0 +1,48 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+easyJet,MAN,ZRH,1h 55m,direct,C$ 80,2025-04-01,1,2025-03-31
+SWISS • Operated by airBaltic,MAN,ZRH,2h 00m,direct,C$ 319,2025-04-01,1,2025-03-31
+SWISS • Operated by Air Baltic,MAN,ZRH,2h 00m,direct,C$ 471,2025-04-01,1,2025-03-31
+Eurowings,MAN,ZRH,6h 00m,1 stop,C$ 257,2025-04-01,1,2025-03-31
+KLM,MAN,ZRH,3h 55m,1 stop,C$ 415,2025-04-01,1,2025-03-31
+Lufthansa,MAN,ZRH,3h 45m,1 stop,C$ 481,2025-04-01,1,2025-03-31
+Lufthansa,MAN,ZRH,3h 55m,1 stop,C$ 480,2025-04-01,1,2025-03-31
+Brussels Airlines • Operated by SWISS,MAN,ZRH,4h 05m,1 stop,C$ 473,2025-04-01,1,2025-03-31
+"Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines, Lufthansa City Airlines",MAN,ZRH,4h 25m,1 stop,C$ 469,2025-04-01,1,2025-03-31
+Brussels Airlines • Operated by SWISS,MAN,ZRH,3h 55m,1 stop,C$ 542,2025-04-01,1,2025-03-31
+Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines,MAN,ZRH,4h 30m,1 stop,C$ 466,2025-04-01,1,2025-03-31
+KLM,MAN,ZRH,4h 10m,1 stop,C$ 590,2025-04-01,1,2025-03-31
+Lufthansa,MAN,ZRH,4h 50m,1 stop,C$ 478,2025-04-01,1,2025-03-31
+"Ryanair, SWISS • Operated by Helvetic Airways",MAN,ZRH,4h 25m,1 stop,C$ 455,2025-04-01,1,2025-03-31
+Air France • Operated by HOP!,MAN,ZRH,5h 10m,1 stop,C$ 477,2025-04-01,1,2025-03-31
+SWISS • Operated by Air Baltic,MAN,ZRH,2h 00m,direct,C$ 316,2025-04-02,2,2025-03-31
+easyJet,MAN,ZRH,14h 30m,1 stop,C$ 147,2025-04-02,2,2025-03-31
+Brussels Airlines • Operated by Swiss,MAN,ZRH,3h 55m,1 stop,C$ 398,2025-04-02,2,2025-03-31
+Eurowings,MAN,ZRH,6h 00m,1 stop,C$ 282,2025-04-02,2,2025-03-31
+Brussels Airlines • Operated by Helvetic Airways For Swiss International Air Lines,MAN,ZRH,4h 05m,1 stop,C$ 398,2025-04-02,2,2025-03-31
+"Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines, Lufthansa City Airlines",MAN,ZRH,4h 25m,1 stop,C$ 391,2025-04-02,2,2025-03-31
+"Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines, Lufthansa CityLine",MAN,ZRH,4h 30m,1 stop,C$ 391,2025-04-02,2,2025-03-31
+Vueling,MAN,ZRH,6h 10m,1 stop,C$ 290,2025-04-02,2,2025-03-31
+British Airways,MAN,ZRH,3h 55m,1 stop,C$ 501,2025-04-02,2,2025-03-31
+"KLM • Operated by KLM Cityhopper, Eastern Airways",MAN,ZRH,3h 55m,1 stop,C$ 590,2025-04-02,2,2025-03-31
+Lufthansa,MAN,ZRH,5h 00m,1 stop,C$ 405,2025-04-02,2,2025-03-31
+KLM,MAN,ZRH,3h 55m,1 stop,C$ 590,2025-04-02,2,2025-03-31
+"Ryanair, SWISS • Operated by Helvetic Airways",MAN,ZRH,5h 35m,1 stop,C$ 335,2025-04-02,2,2025-03-31
+KLM,MAN,ZRH,4h 10m,1 stop,C$ 590,2025-04-02,2,2025-03-31
+Lufthansa • Operated by CityJet,MAN,ZRH,3h 55m,1 stop,C$ 741,2025-04-02,2,2025-03-31
+Austrian Airlines,MAN,ZRH,5h 45m,1 stop,C$ 399,2025-04-02,2,2025-03-31
+easyJet,MAN,ZRH,1h 55m,direct,C$ 291,2025-04-03,3,2025-03-31
+easyJet,MAN,ZRH,11h 55m,1 stop,C$ 150,2025-04-03,3,2025-03-31
+SWISS • Operated by airBaltic,MAN,ZRH,2h 00m,direct,C$ 425,2025-04-03,3,2025-03-31
+SWISS • Operated by Air Baltic,MAN,ZRH,2h 00m,direct,C$ 463,2025-04-03,3,2025-03-31
+Brussels Airlines • Operated by Swiss,MAN,ZRH,3h 55m,1 stop,C$ 398,2025-04-03,3,2025-03-31
+Brussels Airlines • Operated by Swiss,MAN,ZRH,4h 05m,1 stop,C$ 398,2025-04-03,3,2025-03-31
+"Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines, Lufthansa City Airlines",MAN,ZRH,4h 25m,1 stop,C$ 391,2025-04-03,3,2025-03-31
+British Airways,MAN,ZRH,4h 50m,1 stop,C$ 377,2025-04-03,3,2025-03-31
+"KLM • Operated by KLM Cityhopper, Eastern Airways",MAN,ZRH,3h 55m,1 stop,C$ 494,2025-04-03,3,2025-03-31
+Eurowings,MAN,ZRH,6h 00m,1 stop,C$ 337,2025-04-03,3,2025-03-31
+"Lufthansa • Operated by Helvetic Airways For Swiss International Air Lines, Lufthansa CityLine",MAN,ZRH,4h 30m,1 stop,C$ 539,2025-04-03,3,2025-03-31
+KLM,MAN,ZRH,4h 35m,1 stop,C$ 494,2025-04-03,3,2025-03-31
+KLM,MAN,ZRH,3h 55m,1 stop,C$ 847,2025-04-03,3,2025-03-31
+Lufthansa,MAN,ZRH,5h 00m,1 stop,C$ 535,2025-04-03,3,2025-03-31
+KLM • Operated by KLM Cityhopper,MAN,ZRH,3h 50m,1 stop,C$ 914,2025-04-03,3,2025-03-31
+Lufthansa • Operated by CityJet,MAN,ZRH,3h 55m,1 stop,"C$ 1,167",2025-04-03,3,2025-03-31

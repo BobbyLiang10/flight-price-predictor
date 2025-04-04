@@ -1,0 +1,51 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Finnair,MAN,HKG,16h 50m,1 stop,C$ 992,2025-04-01,1,2025-03-31
+"Ryanair, Sichuan Airlines",MAN,HKG,59h 35m,3 stops,C$ 699,2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,15h 25m,1 stop,"C$ 1,387",2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,15h 40m,1 stop,"C$ 1,387",2025-04-01,1,2025-03-31
+SWISS • Operated by airBaltic,MAN,HKG,15h 00m,1 stop,"C$ 1,539",2025-04-01,1,2025-03-31
+"Lufthansa, Cathay Pacific",MAN,HKG,15h 20m,1 stop,"C$ 1,510",2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,17h 00m,1 stop,"C$ 1,375",2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,17h 10m,1 stop,"C$ 1,420",2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,16h 15m,1 stop,"C$ 1,612",2025-04-01,1,2025-03-31
+Cathay Pacific,MAN,HKG,12h 35m,direct,"C$ 2,032",2025-04-01,1,2025-03-31
+Lufthansa • Operated by Cathay Pacific,MAN,HKG,15h 20m,1 stop,"C$ 1,627",2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,18h 55m,1 stop,"C$ 1,420",2025-04-01,1,2025-03-31
+KLM,MAN,HKG,14h 55m,1 stop,"C$ 1,821",2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,18h 45m,1 stop,"C$ 1,427",2025-04-01,1,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,19h 30m,1 stop,"C$ 1,427",2025-04-01,1,2025-03-31
+Finnair • Operated by British Airways,MAN,HKG,22h 15m,2 stops,"C$ 1,095",2025-04-01,1,2025-03-31
+Emirates,MAN,HKG,21h 00m,2 stops,"C$ 1,515",2025-04-02,2,2025-03-31
+British Airways,MAN,HKG,16h 30m,1 stop,"C$ 1,267",2025-04-02,2,2025-03-31
+"Ryanair, Sichuan Airlines • Operated by Malta Air",MAN,HKG,59h 15m,3 stops,C$ 544,2025-04-02,2,2025-03-31
+Cathay Pacific,MAN,HKG,12h 35m,direct,"C$ 2,032",2025-04-02,2,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,15h 35m,1 stop,"C$ 1,387",2025-04-02,2,2025-03-31
+"Ryanair, Finnair • Operated by Norra",MAN,HKG,19h 25m,2 stops,C$ 891,2025-04-02,2,2025-03-31
+SWISS • Operated by airBaltic,MAN,HKG,15h 00m,1 stop,"C$ 1,539",2025-04-02,2,2025-03-31
+"Ryanair, Finnair • Operated by Norra",MAN,HKG,20h 45m,2 stops,C$ 877,2025-04-02,2,2025-03-31
+British Airways,MAN,HKG,18h 35m,1 stop,"C$ 1,267",2025-04-02,2,2025-03-31
+Emirates,MAN,HKG,17h 35m,1 stop,"C$ 1,493",2025-04-02,2,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,17h 10m,1 stop,"C$ 1,387",2025-04-02,2,2025-03-31
+Emirates,MAN,HKG,21h 00m,1 stop,"C$ 1,536",2025-04-02,2,2025-03-31
+"Ryanair, Turkish Airlines",MAN,HKG,20h 20m,2 stops,C$ 966,2025-04-02,2,2025-03-31
+"British Airways, Cathay Pacific",MAN,HKG,18h 40m,1 stop,"C$ 1,387",2025-04-02,2,2025-03-31
+"easyJet, Turkish Airlines",MAN,HKG,19h 35m,2 stops,"C$ 1,033",2025-04-02,2,2025-03-31
+"Ryanair, SWISS • Operated by Helvetic Airways",MAN,HKG,18h 25m,2 stops,"C$ 1,099",2025-04-02,2,2025-03-31
+"Ryanair, Thai Airways",MAN,HKG,20h 00m,2 stops,"C$ 1,068",2025-04-02,2,2025-03-31
+Emirates,MAN,HKG,17h 35m,1 stop,"C$ 2,436",2025-04-03,3,2025-03-31
+British Airways • Operated by Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,369",2025-04-03,3,2025-03-31
+Multiple Airlines,MAN,HKG,51h 55m,3 stops,C$ 564,2025-04-03,3,2025-03-31
+SWISS • Operated by airBaltic,MAN,HKG,15h 00m,1 stop,"C$ 1,539",2025-04-03,3,2025-03-31
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,423",2025-04-03,3,2025-03-31
+"Ryanair, China Eastern • Operated by Shanghai Airlines, Buzz, Malta Air",MAN,HKG,22h 00m,3 stops,C$ 877,2025-04-03,3,2025-03-31
+Finnair,MAN,HKG,16h 50m,1 stop,"C$ 1,509",2025-04-03,3,2025-03-31
+Multiple Airlines,MAN,HKG,24h 40m,2 stops,C$ 900,2025-04-03,3,2025-03-31
+"Ryanair, Turkish Airlines",MAN,HKG,20h 25m,2 stops,"C$ 1,073",2025-04-03,3,2025-03-31
+British Airways,MAN,HKG,18h 30m,1 stop,"C$ 1,475",2025-04-03,3,2025-03-31
+KLM,MAN,HKG,14h 55m,1 stop,"C$ 1,821",2025-04-03,3,2025-03-31
+Multiple Airlines,MAN,HKG,25h 05m,2 stops,C$ 915,2025-04-03,3,2025-03-31
+British Airways • Operated by Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,665",2025-04-03,3,2025-03-31
+Qatar Airways,MAN,HKG,17h 15m,1 stop,"C$ 1,670",2025-04-03,3,2025-03-31
+British Airways • Operated by Qatar Airways,MAN,HKG,23h 55m,1 stop,"C$ 1,369",2025-04-03,3,2025-03-31
+"Jet2, Emirates • Operated by flydubai",MAN,HKG,21h 45m,2 stops,"C$ 1,077",2025-04-03,3,2025-03-31
+Multiple Airlines,MAN,HKG,24h 45m,3 stops,C$ 895,2025-04-03,3,2025-03-31

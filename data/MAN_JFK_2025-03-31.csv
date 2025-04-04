@@ -1,0 +1,49 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Aer Lingus • Operated by Aer Lingus (U.K.) Limited,MAN,JFK,7h 35m,direct,C$ 740,2025-04-01,1,2025-03-31
+Multiple Airlines,MAN,JFK,31h 20m,2 stops,C$ 506,2025-04-01,1,2025-03-31
+British Airways • Operated by Aer Lingus (U.K.) Limited For Aer Lingus,MAN,JFK,7h 35m,direct,"C$ 1,224",2025-04-01,1,2025-03-31
+Aer Lingus,MAN,JFK,10h 00m,1 stop,C$ 862,2025-04-01,1,2025-03-31
+Aer Lingus,MAN,JFK,10h 15m,1 stop,C$ 911,2025-04-01,1,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,12h 15m,1 stop,C$ 862,2025-04-01,1,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,14h 55m,1 stop,C$ 862,2025-04-01,1,2025-03-31
+British Airways,MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-01,1,2025-03-31
+Delta • Operated by Virgin Atlantic,MAN,JFK,7h 44m,direct,"C$ 2,193",2025-04-01,1,2025-03-31
+"British Airways, Finnair • Operated by British Airways",MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-01,1,2025-03-31
+"British Airways, Iberia • Operated by British Airways",MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-01,1,2025-03-31
+"British Airways, Aer Lingus",MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-01,1,2025-03-31
+"Ryanair, Aer Lingus",MAN,JFK,10h 25m,1 stop,"C$ 1,086",2025-04-01,1,2025-03-31
+"British Airways, Iberia • Operated by British Airways",MAN,JFK,12h 00m,1 stop,"C$ 1,070",2025-04-01,1,2025-03-31
+"British Airways, Aer Lingus",MAN,JFK,12h 00m,1 stop,"C$ 1,070",2025-04-01,1,2025-03-31
+"British Airways, Finnair • Operated by British Airways",MAN,JFK,12h 00m,1 stop,"C$ 1,070",2025-04-01,1,2025-03-31
+Aer Lingus • Operated by Aer Lingus (U.K.) Limited,MAN,JFK,7h 35m,direct,C$ 789,2025-04-02,2,2025-03-31
+"Ryanair, Norse Atlantic Airways • Operated by Malta Air",MAN,JFK,52h 20m,2 stops,C$ 502,2025-04-02,2,2025-03-31
+Delta • Operated by Virgin Atlantic,MAN,JFK,7h 30m,direct,C$ 943,2025-04-02,2,2025-03-31
+Virgin Atlantic,MAN,JFK,7h 30m,direct,C$ 943,2025-04-02,2,2025-03-31
+Aer Lingus,MAN,JFK,10h 00m,1 stop,C$ 862,2025-04-02,2,2025-03-31
+British Airways • Operated by Aer Lingus (U.K.) Limited For Aer Lingus,MAN,JFK,7h 35m,direct,"C$ 1,516",2025-04-02,2,2025-03-31
+LEVEL • Operated by Vueling,MAN,JFK,12h 55m,1 stop,C$ 774,2025-04-02,2,2025-03-31
+Aer Lingus,MAN,JFK,10h 15m,1 stop,C$ 952,2025-04-02,2,2025-03-31
+Vueling • Operated by Iberia for Level,MAN,JFK,12h 55m,1 stop,C$ 814,2025-04-02,2,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,12h 15m,1 stop,C$ 911,2025-04-02,2,2025-03-31
+"easyJet, Norse Atlantic Airways",MAN,JFK,14h 45m,1 stop,C$ 761,2025-04-02,2,2025-03-31
+British Airways,MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-02,2,2025-03-31
+"British Airways, Finnair • Operated by British Airways",MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-02,2,2025-03-31
+"British Airways, Iberia",MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-02,2,2025-03-31
+"British Airways, Aer Lingus",MAN,JFK,11h 25m,1 stop,"C$ 1,070",2025-04-02,2,2025-03-31
+"Ryanair, Aer Lingus",MAN,JFK,10h 25m,1 stop,"C$ 1,039",2025-04-02,2,2025-03-31
+Aer Lingus • Operated by Aer Lingus (U.K.) Limited,MAN,JFK,7h 35m,direct,C$ 821,2025-04-03,3,2025-03-31
+Multiple Airlines,MAN,JFK,45h 00m,2 stops,C$ 523,2025-04-03,3,2025-03-31
+Delta • Operated by Virgin Atlantic,MAN,JFK,7h 30m,direct,"C$ 1,030",2025-04-03,3,2025-03-31
+Virgin Atlantic,MAN,JFK,7h 30m,direct,"C$ 1,030",2025-04-03,3,2025-03-31
+British Airways • Operated by Aer Lingus (U.K.) Limited For Aer Lingus,MAN,JFK,7h 35m,direct,"C$ 1,224",2025-04-03,3,2025-03-31
+"Ryanair, Norse Atlantic Airways • Operated by Malta Air",MAN,JFK,18h 55m,1 stop,C$ 547,2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,JFK,9h 35m,1 stop,"C$ 1,362",2025-04-03,3,2025-03-31
+Aer Lingus,MAN,JFK,10h 15m,1 stop,"C$ 1,507",2025-04-03,3,2025-03-31
+"Ryanair, Aer Lingus",MAN,JFK,11h 10m,1 stop,"C$ 1,224",2025-04-03,3,2025-03-31
+Aer Lingus,MAN,JFK,10h 00m,1 stop,"C$ 1,660",2025-04-03,3,2025-03-31
+"Aer Lingus • Operated by Emerald Airlines, Jetblue Airways",MAN,JFK,13h 35m,2 stops,"C$ 1,047",2025-04-03,3,2025-03-31
+British Airways,MAN,JFK,10h 25m,1 stop,"C$ 1,756",2025-04-03,3,2025-03-31
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,14h 55m,1 stop,"C$ 1,125",2025-04-03,3,2025-03-31
+Icelandair,MAN,JFK,11h 05m,1 stop,"C$ 1,461",2025-04-03,3,2025-03-31
+"Jet2, Icelandair",MAN,JFK,15h 35m,1 stop,C$ 935,2025-04-03,3,2025-03-31
+Aer Lingus • Operated by Jetblue Airways,MAN,JFK,14h 50m,2 stops,"C$ 1,006",2025-04-03,3,2025-03-31

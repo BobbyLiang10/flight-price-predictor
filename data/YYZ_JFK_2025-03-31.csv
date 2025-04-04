@@ -1,0 +1,39 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Trailways • Operated by New York Trailways,YYZ,JFK,11h 15m,0 changes,C$ 123,2025-04-01,1,2025-03-31
+Delta • Operated by Endeavor Air DBA Delta Connection,YYZ,JFK,2h 00m,direct,C$ 273,2025-04-01,1,2025-03-31
+American Airlines • Operated by Republic Airways AS American Eagle,YYZ,JFK,1h 59m,direct,C$ 273,2025-04-01,1,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 50m,direct,C$ 273,2025-04-01,1,2025-03-31
+Delta • Operated by Endeavor Air DBA Delta Connection,YYZ,JFK,2h 00m,direct,C$ 273,2025-04-01,1,2025-03-31
+EL AL,YYZ,JFK,2h 00m,direct,"C$ 1,714",2025-04-01,1,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,4h 47m,1 stop,C$ 531,2025-04-01,1,2025-03-31
+American Airlines • Operated by Psa Airlines AS American Eagle,YYZ,JFK,6h 00m,1 stop,"C$ 1,208",2025-04-01,1,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,5h 47m,1 stop,C$ 849,2025-04-01,1,2025-03-31
+American Airlines • Operated by Republic Airways AS American Eagle,YYZ,JFK,6h 26m,1 stop,C$ 851,2025-04-01,1,2025-03-31
+American Airlines • Operated by Republic Airways AS American Eagle,YYZ,JFK,1h 49m,direct,C$ 273,2025-04-02,2,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 40m,direct,C$ 273,2025-04-02,2,2025-03-31
+Delta • Operated by Endeavor Air DBA Delta Connection,YYZ,JFK,2h 00m,direct,C$ 273,2025-04-02,2,2025-03-31
+Delta • Operated by Endeavor Air DBA Delta Connection,YYZ,JFK,2h 00m,direct,C$ 273,2025-04-02,2,2025-03-31
+American Airlines • Operated by Republic Airways AS American Eagle,YYZ,JFK,1h 59m,direct,C$ 273,2025-04-02,2,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 50m,direct,C$ 273,2025-04-02,2,2025-03-31
+United Airlines • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 50m,direct,C$ 280,2025-04-02,2,2025-03-31
+Delta • Operated by Endeavor Air DBA Delta Connection,YYZ,JFK,1h 44m,direct,C$ 273,2025-04-02,2,2025-03-31
+United Airlines • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 40m,direct,C$ 280,2025-04-02,2,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,4h 47m,1 stop,C$ 273,2025-04-02,2,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,5h 47m,1 stop,C$ 618,2025-04-02,2,2025-03-31
+American Airlines • Operated by Envoy Air AS American Eagle,YYZ,JFK,6h 26m,1 stop,C$ 851,2025-04-02,2,2025-03-31
+American Airlines • Operated by Psa Airlines AS American Eagle,YYZ,JFK,6h 00m,1 stop,"C$ 1,208",2025-04-02,2,2025-03-31
+American Airlines • Operated by Psa Airlines AS American Eagle,YYZ,JFK,6h 18m,1 stop,"C$ 1,208",2025-04-02,2,2025-03-31
+Qantas Airways,YYZ,JFK,1h 59m,direct,"C$ 2,431",2025-04-02,2,2025-03-31
+Delta • Operated by Endeavor Air DBA Delta Connection,YYZ,JFK,2h 02m,direct,C$ 273,2025-04-03,3,2025-03-31
+American Airlines • Operated by Republic Airways AS American Eagle,YYZ,JFK,1h 49m,direct,C$ 273,2025-04-03,3,2025-03-31
+American Airlines • Operated by Republic Airways AS American Eagle,YYZ,JFK,1h 59m,direct,C$ 273,2025-04-03,3,2025-03-31
+Delta • Operated by Endeavor Air DBA Delta Connection,YYZ,JFK,2h 00m,direct,C$ 273,2025-04-03,3,2025-03-31
+United Airlines • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 50m,direct,C$ 309,2025-04-03,3,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 50m,direct,C$ 309,2025-04-03,3,2025-03-31
+United Airlines • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 40m,direct,C$ 347,2025-04-03,3,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,1h 40m,direct,C$ 347,2025-04-03,3,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,4h 47m,1 stop,C$ 413,2025-04-03,3,2025-03-31
+Air Canada • Operated by Air Canada Express - Jazz,YYZ,JFK,5h 47m,1 stop,C$ 309,2025-04-03,3,2025-03-31
+American Airlines • Operated by Envoy Air AS American Eagle,YYZ,JFK,6h 26m,1 stop,C$ 768,2025-04-03,3,2025-03-31
+American Airlines • Operated by Psa Airlines AS American Eagle,YYZ,JFK,6h 00m,1 stop,"C$ 1,243",2025-04-03,3,2025-03-31
+American Airlines • Operated by Psa Airlines AS American Eagle,YYZ,JFK,6h 18m,1 stop,"C$ 1,243",2025-04-03,3,2025-03-31

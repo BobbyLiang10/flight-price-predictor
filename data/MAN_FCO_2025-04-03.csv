@@ -1,0 +1,48 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Jet2,MAN,FCO,2h 55m,direct,C$ 484,2025-04-07,4,2025-04-03
+Ryanair • Operated by Lauda,MAN,FCO,17h 10m,1 stop,C$ 209,2025-04-07,4,2025-04-03
+"easyJet, Ryanair • Operated by Malta Air",MAN,FCO,7h 35m,1 stop,C$ 366,2025-04-07,4,2025-04-03
+"Ryanair, ITA Airways",MAN,FCO,5h 30m,1 stop,C$ 469,2025-04-07,4,2025-04-03
+Eurowings,MAN,FCO,6h 05m,1 stop,C$ 504,2025-04-07,4,2025-04-03
+"Ryanair, Aeroitalia • Operated by Marathon Airlines",MAN,FCO,5h 30m,1 stop,C$ 546,2025-04-07,4,2025-04-03
+"Ryanair, ITA Airways • Operated by Malta Air",MAN,FCO,8h 45m,1 stop,C$ 409,2025-04-07,4,2025-04-03
+"easyJet, ITA Airways",MAN,FCO,5h 05m,1 stop,C$ 850,2025-04-07,4,2025-04-03
+Vueling,MAN,FCO,6h 45m,1 stop,C$ 624,2025-04-07,4,2025-04-03
+Ryanair • Operated by Malta Air,MAN,FCO,7h 45m,1 stop,C$ 484,2025-04-07,4,2025-04-03
+"Ryanair, Wizz Air",MAN,FCO,8h 15m,1 stop,C$ 461,2025-04-07,4,2025-04-03
+Ryanair,MAN,FCO,6h 10m,1 stop,C$ 643,2025-04-07,4,2025-04-03
+British Airways,MAN,FCO,6h 00m,1 stop,"C$ 1,029",2025-04-07,4,2025-04-03
+"Jet2, ITA Airways",MAN,FCO,7h 25m,1 stop,C$ 547,2025-04-07,4,2025-04-03
+British Airways,MAN,FCO,4h 55m,1 stop,"C$ 1,267",2025-04-07,4,2025-04-03
+"easyJet, Volotea",MAN,FCO,6h 45m,1 stop,C$ 639,2025-04-07,4,2025-04-03
+"Jet2, Ryanair • Operated by Lauda",MAN,FCO,6h 05m,1 stop,C$ 280,2025-04-08,5,2025-04-03
+Ryanair,MAN,FCO,22h 30m,1 stop,C$ 137,2025-04-08,5,2025-04-03
+"easyJet, ITA Airways",MAN,FCO,5h 00m,1 stop,C$ 384,2025-04-08,5,2025-04-03
+Ryanair • Operated by Malta Air,MAN,FCO,5h 10m,1 stop,C$ 414,2025-04-08,5,2025-04-03
+Brussels Airlines,MAN,FCO,4h 55m,1 stop,C$ 564,2025-04-08,5,2025-04-03
+Ryanair • Operated by Lauda,MAN,FCO,5h 25m,1 stop,C$ 385,2025-04-08,5,2025-04-03
+Lufthansa,MAN,FCO,5h 35m,1 stop,C$ 547,2025-04-08,5,2025-04-03
+"easyJet, Ryanair • Operated by Malta Air",MAN,FCO,7h 15m,1 stop,C$ 330,2025-04-08,5,2025-04-03
+"easyJet, ITA Airways",MAN,FCO,5h 50m,1 stop,C$ 506,2025-04-08,5,2025-04-03
+SWISS • Operated by airBaltic,MAN,FCO,4h 25m,1 stop,C$ 872,2025-04-08,5,2025-04-03
+"Ryanair, Wizz Air",MAN,FCO,8h 15m,1 stop,C$ 317,2025-04-08,5,2025-04-03
+Vueling,MAN,FCO,7h 05m,1 stop,C$ 432,2025-04-08,5,2025-04-03
+"easyJet, Ryanair • Operated by Malta Air",MAN,FCO,6h 30m,1 stop,C$ 425,2025-04-08,5,2025-04-03
+"Ryanair, Wizz Air",MAN,FCO,6h 30m,1 stop,C$ 431,2025-04-08,5,2025-04-03
+Lufthansa,MAN,FCO,6h 55m,1 stop,C$ 527,2025-04-08,5,2025-04-03
+"easyJet, ITA Airways",MAN,FCO,4h 50m,1 stop,C$ 795,2025-04-08,5,2025-04-03
+Jet2,MAN,FCO,2h 55m,direct,C$ 414,2025-04-09,6,2025-04-03
+"Ryanair, Ryanair • Operated by Malta Air",MAN,FCO,6h 40m,1 stop,C$ 150,2025-04-09,6,2025-04-03
+Ryanair,MAN,FCO,6h 05m,1 stop,C$ 154,2025-04-09,6,2025-04-03
+Ryanair,MAN,FCO,7h 25m,1 stop,C$ 157,2025-04-09,6,2025-04-03
+"Aer Lingus, Ryanair",MAN,FCO,7h 00m,1 stop,C$ 186,2025-04-09,6,2025-04-03
+"Ryanair, Wizz Air • Operated by Buzz",MAN,FCO,6h 30m,1 stop,C$ 230,2025-04-09,6,2025-04-03
+SWISS,MAN,FCO,4h 25m,1 stop,C$ 466,2025-04-09,6,2025-04-03
+"Ryanair, ITA Airways",MAN,FCO,5h 05m,1 stop,C$ 390,2025-04-09,6,2025-04-03
+"Ryanair, Aeroitalia • Operated by Marathon Airlines",MAN,FCO,5h 30m,1 stop,C$ 358,2025-04-09,6,2025-04-03
+Ryanair • Operated by Malta Air,MAN,FCO,7h 10m,1 stop,C$ 255,2025-04-09,6,2025-04-03
+Brussels Airlines,MAN,FCO,4h 55m,1 stop,C$ 649,2025-04-09,6,2025-04-03
+"Ryanair, Ryanair",MAN,FCO,6h 55m,1 stop,C$ 293,2025-04-09,6,2025-04-03
+Lufthansa,MAN,FCO,5h 25m,1 stop,C$ 577,2025-04-09,6,2025-04-03
+Lufthansa,MAN,FCO,5h 25m,1 stop,C$ 599,2025-04-09,6,2025-04-03
+"Ryanair, Wizz Air",MAN,FCO,6h 30m,1 stop,C$ 358,2025-04-09,6,2025-04-03

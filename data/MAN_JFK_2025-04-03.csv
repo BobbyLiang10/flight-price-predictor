@@ -1,0 +1,48 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Aer Lingus • Operated by Aer Lingus (U.K.) Limited,MAN,JFK,7h 35m,direct,"C$ 1,734",2025-04-07,4,2025-04-03
+"Ryanair, Turkish Airlines",MAN,JFK,28h 10m,2 stops,C$ 847,2025-04-07,4,2025-04-03
+British Airways • Operated by Aer Lingus (U.K.) Limited For Aer Lingus,MAN,JFK,7h 35m,direct,"C$ 3,927",2025-04-07,4,2025-04-03
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,14h 55m,1 stop,"C$ 1,233",2025-04-07,4,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,9h 55m,1 stop,"C$ 1,486",2025-04-07,4,2025-04-03
+Aer Lingus,MAN,JFK,10h 00m,1 stop,"C$ 1,586",2025-04-07,4,2025-04-03
+"Jet2, Azores Airlines",MAN,JFK,18h 00m,2 stops,C$ 869,2025-04-07,4,2025-04-03
+"easyJet, Emirates",MAN,JFK,13h 20m,1 stop,"C$ 1,287",2025-04-07,4,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,9h 50m,1 stop,"C$ 1,629",2025-04-07,4,2025-04-03
+Vueling • Operated by Iberia,MAN,JFK,17h 20m,1 stop,"C$ 1,201",2025-04-07,4,2025-04-03
+Icelandair,MAN,JFK,11h 05m,1 stop,"C$ 1,708",2025-04-07,4,2025-04-03
+Aer Lingus,MAN,JFK,10h 15m,1 stop,"C$ 1,721",2025-04-07,4,2025-04-03
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,25h 00m,1 stop,"C$ 1,247",2025-04-07,4,2025-04-03
+"Jet2, Norse Atlantic Airways",MAN,JFK,20h 25m,1 stop,"C$ 1,063",2025-04-07,4,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,12h 30m,1 stop,"C$ 1,498",2025-04-07,4,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,13h 25m,1 stop,"C$ 1,486",2025-04-07,4,2025-04-03
+Virgin Atlantic,MAN,JFK,7h 30m,direct,"C$ 1,045",2025-04-08,5,2025-04-03
+"Ryanair, Norse Atlantic Airways",MAN,JFK,52h 40m,2 stops,C$ 546,2025-04-08,5,2025-04-03
+Aer Lingus • Operated by Aer Lingus (U.K.) Limited,MAN,JFK,7h 35m,direct,"C$ 1,275",2025-04-08,5,2025-04-03
+Aer Lingus,MAN,JFK,10h 00m,1 stop,C$ 896,2025-04-08,5,2025-04-03
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,12h 15m,1 stop,C$ 896,2025-04-08,5,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,10h 25m,1 stop,C$ 976,2025-04-08,5,2025-04-03
+Icelandair,MAN,JFK,11h 05m,1 stop,"C$ 1,330",2025-04-08,5,2025-04-03
+Aer Lingus,MAN,JFK,10h 15m,1 stop,"C$ 1,586",2025-04-08,5,2025-04-03
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,14h 55m,1 stop,"C$ 1,233",2025-04-08,5,2025-04-03
+"Aer Lingus • Operated by Emerald Airlines, British Airways",MAN,JFK,15h 25m,2 stops,"C$ 1,217",2025-04-08,5,2025-04-03
+Aer Lingus • Operated by British Airways,MAN,JFK,14h 25m,2 stops,"C$ 1,701",2025-04-08,5,2025-04-03
+Turkish Airlines,MAN,JFK,17h 25m,1 stop,"C$ 1,364",2025-04-08,5,2025-04-03
+"Aer Lingus • Operated by Emerald Airlines, British Airways",MAN,JFK,15h 00m,2 stops,"C$ 1,642",2025-04-08,5,2025-04-03
+"Jet2, Azores Airlines",MAN,JFK,17h 35m,2 stops,C$ 917,2025-04-08,5,2025-04-03
+Aer Lingus,MAN,JFK,16h 10m,1 stop,"C$ 1,647",2025-04-08,5,2025-04-03
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,21h 30m,1 stop,C$ 953,2025-04-08,5,2025-04-03
+Virgin Atlantic,MAN,JFK,7h 30m,direct,"C$ 1,130",2025-04-09,6,2025-04-03
+"Aer Lingus, Icelandair",MAN,JFK,16h 00m,2 stops,C$ 834,2025-04-09,6,2025-04-03
+Aer Lingus,MAN,JFK,10h 00m,1 stop,C$ 896,2025-04-09,6,2025-04-03
+Aer Lingus • Operated by Aer Lingus (U.K.) Limited,MAN,JFK,7h 35m,direct,"C$ 1,383",2025-04-09,6,2025-04-03
+Aer Lingus,MAN,JFK,10h 15m,1 stop,C$ 939,2025-04-09,6,2025-04-03
+Aer Lingus • Operated by Emerald Airlines,MAN,JFK,12h 15m,1 stop,C$ 896,2025-04-09,6,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,10h 25m,1 stop,"C$ 1,032",2025-04-09,6,2025-04-03
+Vueling • Operated by Iberia,MAN,JFK,12h 55m,1 stop,"C$ 1,072",2025-04-09,6,2025-04-03
+Aer Lingus,MAN,JFK,16h 10m,1 stop,C$ 896,2025-04-09,6,2025-04-03
+"easyJet, Norse Atlantic Airways",MAN,JFK,14h 45m,1 stop,C$ 896,2025-04-09,6,2025-04-03
+"Iberia • Operated by Iberia For Level Spain, Vueling",MAN,JFK,12h 55m,1 stop,"C$ 1,183",2025-04-09,6,2025-04-03
+"easyJet, Norse Atlantic Airways",MAN,JFK,15h 55m,1 stop,C$ 913,2025-04-09,6,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,12h 50m,1 stop,"C$ 1,092",2025-04-09,6,2025-04-03
+TAP AIR PORTUGAL,MAN,JFK,14h 05m,1 stop,"C$ 1,108",2025-04-09,6,2025-04-03
+"Ryanair, Aer Lingus",MAN,JFK,10h 30m,1 stop,"C$ 1,500",2025-04-09,6,2025-04-03

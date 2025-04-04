@@ -1,0 +1,51 @@
+Airline,Origin,Destination,Duration,Total stops,Price,Flight date,Days left until flight,Booking date
+Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,108",2025-04-01,1,2025-03-31
+TAP AIR PORTUGAL,YYZ,BCN,14h 30m,1 stop,C$ 566,2025-04-01,1,2025-03-31
+Multiple Airlines • Operated by BA Euroflyer,YYZ,BCN,45h 25m,3 stops,C$ 507,2025-04-01,1,2025-03-31
+"TAP AIR PORTUGAL, Vueling",YYZ,BCN,12h 30m,1 stop,C$ 578,2025-04-01,1,2025-03-31
+"Air Transat, Vueling",YYZ,BCN,11h 35m,1 stop,C$ 653,2025-04-01,1,2025-03-31
+Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,108",2025-04-01,1,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,108",2025-04-01,1,2025-03-31
+"Air Transat, easyJet",YYZ,BCN,11h 25m,1 stop,C$ 672,2025-04-01,1,2025-03-31
+Aer Lingus,YYZ,BCN,10h 55m,1 stop,C$ 903,2025-04-01,1,2025-03-31
+TAP AIR PORTUGAL,YYZ,BCN,10h 55m,1 stop,C$ 948,2025-04-01,1,2025-03-31
+"TAP AIR PORTUGAL, Iberia",YYZ,BCN,12h 30m,1 stop,C$ 713,2025-04-01,1,2025-03-31
+TAP AIR PORTUGAL • Operated by Portugalia,YYZ,BCN,17h 15m,1 stop,C$ 610,2025-04-01,1,2025-03-31
+Multiple Airlines,YYZ,BCN,13h 05m,2 stops,C$ 702,2025-04-01,1,2025-03-31
+SWISS,YYZ,BCN,10h 15m,1 stop,"C$ 1,128",2025-04-01,1,2025-03-31
+"Qatar Airways, British Airways",YYZ,BCN,10h 55m,1 stop,"C$ 1,075",2025-04-01,1,2025-03-31
+"Qatar Airways, Finnair",YYZ,BCN,10h 55m,1 stop,"C$ 1,075",2025-04-01,1,2025-03-31
+Air Canada • Operated by SWISS,YYZ,BCN,10h 15m,1 stop,"C$ 1,134",2025-04-01,1,2025-03-31
+Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,108",2025-04-02,2,2025-03-31
+Azores Airlines,YYZ,BCN,10h 35m,1 stop,C$ 575,2025-04-02,2,2025-03-31
+"TAP AIR PORTUGAL, Vueling",YYZ,BCN,19h 10m,1 stop,C$ 541,2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,BCN,11h 55m,1 stop,C$ 563,2025-04-02,2,2025-03-31
+Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,108",2025-04-02,2,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,108",2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL • Operated by Portugalia,YYZ,BCN,14h 20m,1 stop,C$ 565,2025-04-02,2,2025-03-31
+Icelandair,YYZ,BCN,11h 55m,1 stop,C$ 737,2025-04-02,2,2025-03-31
+"TAP AIR PORTUGAL, Vueling",YYZ,BCN,11h 55m,1 stop,C$ 650,2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,BCN,10h 55m,1 stop,C$ 823,2025-04-02,2,2025-03-31
+"TAP AIR PORTUGAL, Vueling",YYZ,BCN,12h 30m,1 stop,C$ 623,2025-04-02,2,2025-03-31
+Royal Air Maroc,YYZ,BCN,14h 45m,1 stop,C$ 609,2025-04-02,2,2025-03-31
+"Air Transat, Vueling",YYZ,BCN,11h 35m,1 stop,C$ 685,2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,BCN,17h 15m,1 stop,C$ 566,2025-04-02,2,2025-03-31
+"TAP AIR PORTUGAL, Iberia",YYZ,BCN,11h 55m,1 stop,C$ 821,2025-04-02,2,2025-03-31
+Aer Lingus,YYZ,BCN,10h 55m,1 stop,C$ 974,2025-04-02,2,2025-03-31
+TAP AIR PORTUGAL,YYZ,BCN,14h 30m,1 stop,C$ 655,2025-04-02,2,2025-03-31
+Azores Airlines,YYZ,BCN,10h 35m,1 stop,C$ 574,2025-04-03,3,2025-03-31
+"TAP AIR PORTUGAL, Vueling",YYZ,BCN,25h 25m,1 stop,C$ 558,2025-04-03,3,2025-03-31
+Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,185",2025-04-03,3,2025-03-31
+Lufthansa • Operated by Air Canada,YYZ,BCN,7h 50m,direct,"C$ 1,185",2025-04-03,3,2025-03-31
+Aer Lingus,YYZ,BCN,10h 55m,1 stop,C$ 974,2025-04-03,3,2025-03-31
+"Air Transat, Vueling",YYZ,BCN,11h 35m,1 stop,C$ 874,2025-04-03,3,2025-03-31
+Iberia • Operated by Republic For American Airlines,YYZ,BCN,14h 15m,1 stop,C$ 937,2025-04-03,3,2025-03-31
+"TAP AIR PORTUGAL, Vueling",YYZ,BCN,12h 30m,1 stop,C$ 673,2025-04-03,3,2025-03-31
+"Qatar Airways, Finnair",YYZ,BCN,10h 55m,1 stop,"C$ 1,075",2025-04-03,3,2025-03-31
+"Qatar Airways, Iberia",YYZ,BCN,10h 55m,1 stop,"C$ 1,075",2025-04-03,3,2025-03-31
+"Qatar Airways, British Airways",YYZ,BCN,10h 55m,1 stop,"C$ 1,075",2025-04-03,3,2025-03-31
+Iberia • Operated by Wisconsin,YYZ,BCN,15h 16m,1 stop,C$ 937,2025-04-03,3,2025-03-31
+TAP AIR PORTUGAL • Operated by Portugalia,YYZ,BCN,14h 30m,1 stop,C$ 969,2025-04-03,3,2025-03-31
+SWISS,YYZ,BCN,10h 15m,1 stop,"C$ 1,201",2025-04-03,3,2025-03-31
+"Air Canada, SWISS • Operated by SWISS",YYZ,BCN,10h 15m,1 stop,"C$ 1,211",2025-04-03,3,2025-03-31
+Air Canada • Operated by SWISS,YYZ,BCN,10h 15m,1 stop,"C$ 1,211",2025-04-03,3,2025-03-31
